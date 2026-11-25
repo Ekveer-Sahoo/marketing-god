@@ -231,3 +231,20 @@ Claims from creators about platforms and statistics are unverified.
 - Accent rule: one small opposite-temperature accent (warm page, cool accent), and less than you think (DfzqwB3y0vS, Df2ibEEx8TL). Strip the "AI slop" tells (gradients, hype words, fake stat strips) (DgD2xr5zPvE).
 - Patterns: the batch is dominated by pricing psychology (decoy, anchoring, bundling, 3 tiers) and landing page design, with many near-identical decoy scripts (DO8d-8lj_R5, DVqvkZOky5Z); formats are voiceover case studies in numbered series (@decoyreport, @dukaandidi fictional Hinglish stories with a named psychologist), fix-along screen recordings and count-the-flaws lists. CTAs are comment-a-keyword (COFFEE, SKILL, SLOP, HERO, accent) for a free skill, prompt or checklist, with comment counts far above likes on tool giveaways (DfgZkOaNXiI, Dfrymp_q6Rr). Hooks are "Do not start a business without this", a quiz ("$34 or $39?") or a contrast pair ("$200 client vs $4000 client").
 - Worth a closer look: DE-RABNRtfB, Dfw1o_cHHUS, DcqiQesO_R9, Dfrymp_q6Rr, DSqVVMYEi8t.
+
+
+## Batch H (hashtag videos, 35 studied, 7 skipped)
+- Free competitor research: Google's Ads Transparency Center shows a rival's live ads, variations and calls to action; Auction Insights lists who bids against you (DHGcsMZpPB-, DJ9TKq8y2qS).
+- Steal customers by reading rivals' reviews for complaints, then advertise against those pains (DZkLffeRldW).
+- Clicks are not customers: add negative keywords for job seekers, DIYers and price-checkers, and read the search terms report (DeRx-FtAhRZ, DfBORbchhOV).
+- Cheap clicks can be waste: in shopping campaigns Google matches on titles and descriptions, so name the audience, material and use (DfiFyOLvHMG, DfTMGjTuILq).
+- Seed keyword research with buying-intent terms ("plumber near me"), not "how to" questions (DfilAGABc1W).
+- Panic test for channel choice: emergency jobs are searched (Google first); planned projects can be shown (Facebook first) (Df5CVQeMlHw).
+- Capture versus create: Google and SEO catch existing demand, Meta creates new demand (DfNtEiauo3k).
+- Account audit order: conversion tracking first, turn off auto-applied recommendations, search partners and display expansion off (DcbuWxvgOWJ).
+- Split 15 headlines into brand, USP/service and offer/CTA groups of five (DfRx5dwEXko).
+- Landing page for paid clicks: no navigation, keyword-matched, tap-to-call at the top, short pre-qualifying form (DIcQjwfS_Uc, DeM368qNEzV).
+- Small budget: one winning product, local keywords, max-clicks bidding with a per-click cap (DaeH64Rv2j3).
+- Daily budgets are averages; platforms can overspend on busy days within weekly or monthly caps (claim, unverified) (DeXEkG3OGwH).
+- Patterns: the hashtag is dominated by one Claude Google-Ads-skill script reposted by many creators (DftI1olv1Aq and five copies); comment-keyword lead magnets draw 500-3900 comments; small-creator Google basics explainers in numbered series.
+- Worth a closer look: DZkLffeRldW, DcbuWxvgOWJ, DfiFyOLvHMG, Df5CVQeMlHw, DYC-_qBycrO.
