@@ -85,14 +85,16 @@ _MODELS = {}
 
 
 def transcribe(video, model_name):
-    for pkg in ("cublas", "cudnn"):
-        try:
-            import importlib
-            mod = importlib.import_module(f"nvidia.{pkg}")
-            os.add_dll_directory(str(Path(mod.__path__[0]) / "bin"))
-            os.environ["PATH"] = str(Path(mod.__path__[0]) / "bin") + os.pathsep + os.environ["PATH"]
-        except Exception:
-            pass
+    if not _MODELS.get("dll_paths_added"):  # once per process: PATH must not grow with every video
+        _MODELS["dll_paths_added"] = True
+        for pkg in ("cublas", "cudnn"):
+            try:
+                import importlib
+                mod = importlib.import_module(f"nvidia.{pkg}")
+                os.add_dll_directory(str(Path(mod.__path__[0]) / "bin"))
+                os.environ["PATH"] = str(Path(mod.__path__[0]) / "bin") + os.pathsep + os.environ["PATH"]
+            except Exception:
+                pass
     import numpy as np
     from faster_whisper import WhisperModel
     pcm = subprocess.run([exe("ffmpeg"), "-v", "error", "-i", str(video), "-ac", "1", "-ar", "16000",

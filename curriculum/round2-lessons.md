@@ -177,3 +177,22 @@ Claims from creators about platforms and statistics are unverified.
 - Ladder an ad element: generic, good, specific (first week free, "don't love it, don't pay", pick a time this week) (Df0BE4TO5YR).
 - Patterns: a large block of near-identical "N ad formats" lists (static menus, video menus, AI-made formats) mostly gated by comment keywords (ADS, STATIC, VIDEO, ads) that give the highest comment counts (2,932; 1,919); funnel-stage format maps; quiz-style A/B result reels; a second block of "genius marketing" case-study reels with hook-question openers, "Day N of 100" series, a stat near the end, and an ending question to drive comments. Numbers in these are mostly unsourced.
 - Worth a closer look: DfXrim6xnyH, DegNvePzO0Q, DfAH9zEMy4K, Df-dxNavduJ, DZH9LqouMwA.
+
+### Carousel captions, set 4 (115 read, 31 skipped)
+- Quote three tiers, Premium first, Standard in the middle, Basic honest; the question shifts from "should I?" to "which one?" (compromise effect, claim, unverified). [P:DfB4oR8ICmW]
+- Low prices signal low confidence and invite client second-guessing; a higher price earns trust, so check pricing before blaming clients. [P:DdiHMFokb1d]
+- Pricing checklist: anchor with a premium option, add a decoy, show the value gap against the alternative, cut friction, and optimise contribution margin/revenue per visitor rather than sales volume. [P:DddzyHej0YN]
+- Views-to-sales math: 10,000 views x 1% click = 100 visitors, ~2.66% conversion = ~3 sales (example, benchmark unverified); raising click rate to 4% gives ~11, so fix the offer/CTA before chasing views. [P:DeQF5cCjRmi]
+- Conversion audit before touching price or product: varied social proof, benefit-stating CTA, less friction, value-framed price, obvious total value. [P:DcQm4IZiPOJ]
+- Five leaks to diagnose: vague targeting, feature-dumping, clunky checkout, no follow-up, fuzzy CTA. [P:DcTpckbEqVy]
+- Match the funnel to price: buy-now under ~₹2,000, call for ₹25,000+, waitlist for real urgency, DM automation, webinar, free community. [P:Ddnd1LtE1gN]
+- A small paid purchase (about $27) builds more trust than months of free content; sell a low-ticket offer to earn trust. [P:Dds4sGuES9n]
+- Tag your next three posts TOFU/MOFU/BOFU and fill the missing stage (reels/tips, carousels/how-tos/BTS, reviews/testimonials/offers). [P:DdRem75EwPu]
+- Every post gets a goal and next step: Claude project, 4-week matrix of goal/pillar/format/hook/CTA, and monthly Insights review. [P:DfiPnbFjZ_L]
+- Eight-step campaign sequence: pressure-test idea, lock emotion, message system, one visual world, connected assets, variations, test, double down. [P:DW9WuUiAanC]
+- Replace "what should I post?" with: who is this for, why should they care, what should they do next. [P:DdY8GbwgfEp]
+- Spend ~80% of effort on the cover/hook; weak covers kill the rest. [P:DOsMdr3jvyp]
+- Brand kit is a system: 4 logo variations, multiple accent colors, several ad formats and photo styles, one primary plus 3 supporting fonts. [P:Ddid7q3oHSG]
+- Prompting AI for content: supply what you do, dream client, struggles/desires, offer, tone first; split into skills (simple language, story, hooks, anti-AI pass, voice profile). [P:DQHUynsE4Nz, P:DZz17R5FCgm]
+- Patterns: openers are contrarian reframes ("X is not Y", "Posting is not marketing"), a number ("200 ideas", "9 principles") or a named brand case; dominant CTA is "Comment KEYWORD" to receive a DM guide/prompt pack plus "save this"/"share with a friend", and those gated posts get the highest comments (often 500-19K, Claude/AI-skill posts and free-content-guide posts especially), while pure case-study or opinion posts get few comments despite high likes. Many captions are teasers with the substance only on slides, and several carry keyword-stuffed hashtag blocks.
+- Worth reading the slides: P:DfWp8pwjP1Z (Selleys billboard stunt lessons), P:DfiPnbFjZ_L (7-step prompts on every slide), P:DddzyHej0YN, P:DVJI36ajMJZ (9-post launch grid order), P:DaUeSukiCqP (brand mapping), P:Ddnd1LtE1gN.

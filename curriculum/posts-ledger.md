@@ -451,3 +451,235 @@ Notes are our own summaries; each creator owns their post.
 **P:DfYzm-ygeD9 · @(none)** — Marketing portfolio projects. Take: build real projects (7-day café content plan, brand Instagram audit, local SEO, mock skincare campaign, app journey map); show brief, research, problem, rationale and next test, not screenshots.
 **P:DWgZHWEEbva · @coach.joel.burgess · 21 / 1** — Case studies over testimonials. Take: testimonials trigger skepticism; story-style case studies build belief. Hook angles include client transformations, numbers, unexpected results, comparisons, comeback stories.
 **P:DaikCcAFlN0 · @harvardundergraduatemarketing** — SKIP: caption only teases (Stanley cup).
+
+## Posts 4 (carousel captions)
+
+**P:DemKI4VH_wb · @iamsunnywadhwani · 86 / 140** — Quick-commerce scaling case study (dry fruits on Blinkit). Take: levers named for taking ₹20L to ₹1Cr/month in 5 months (ad spend 2x, sales 5x, per the poster): tighter campaign structure, keyword optimisation, city-level targeting, budget allocation, product mix. Comment-for-PDF gate drove the comments.
+
+**P:DVtQTacFw_p · @socialmediadissect · 753 / 3** — Comfort scented-newspaper ad. Take: turn the medium itself into the product demo; a print "cupboard" that released the fragrance when opened let readers experience the product sensorially, not just read about it.
+
+**P:DHqZ3Qrq8SA · @milktreeagency · 131 / 6** — Duolingo's TikTok strategy. Take: the brand skipped conversion pushes and became a character/meme, so engagement and memorability came from personality rather than download asks. (Details are on the slides; only the thesis is in the caption.)
+
+**P:DfWp8pwjP1Z · @ctrlchaosstudio.ae · 6 / 0** — Selleys glue billboard stunt. Take: a product-proof stunt (heavy items glued to a billboard, "pull it off and keep it") doubled as a challenge; reported 47M video views, +12% awareness, +5% sales (claim, unverified). Ends with a comment prompt question.
+
+**P:DXJ9l2ZEoUK · @parushi.yaps · 172 / 5** — Zomato marketing teardown. **SKIP: caption only teases the slides** (says "5 tactics", names none).
+
+**P:DM9jJH4JR7y · @ · – / –** — Heinz "draw ketchup" campaign. Take: three-part win: people drew Heinz (proof of category ownership), drawings became user-generated content, and the best ones became collectible bottles, converting proof into product.
+
+**P:Dd1NSkbDoT_ · @tanisha.yaps · 917 / 56** — Three campaign shifts. Take: reading campaigns for strategy: packaging lookalikes (beauty eye patches), expert/creator-led authority, and athletes building owned brand equity (Kohli One8, Mbappe). Only the themes are stated; "comment 4 LINKS" gate.
+
+**P:DWA3iIyE9SD · @scoochmarketing · 105 / 10** — Anti-AI marketing. Take: brands are using visible human craft, authenticity and transparency as a positioning angle against automated sameness. Ends by asking which case study fits best.
+
+**P:Dfo0hqlgdGp · @expert.pitch · 676 / 1** — When changing a brand helps vs harms. Take: do not change for change's sake; know what audience loves and what works before altering something established.
+
+**P:Df373C6nXW5 · @prinikacademy · 14 / 3** — Elon Musk marketing. Take: make the product itself the conversation; remarkable products earn media and customers who advertise for you, so build something worth talking about instead of buying attention. Ends with agency contact promo.
+
+**P:DaQM5sFGsG3 · @thebrandschapter · 1,396 / 31** — Reel ideas for founders. Take: founders quit posting from a lack of ideas, not time; a bank of stealable reel ideas removes the blank-calendar problem. Ideas themselves are on slides. Save/share/comment CTA stack.
+
+**P:Dfm6A-xFJEF · @thebrandblueprint_ · 2,048 / 768** — Zero-budget virality. Take: low-cost routes named are founder-led content, riding cultural moments, and making the internet feel part of the brand. Keyword comment ("ZERO") for a breakdown pulled 768 comments.
+
+**P:DVJI36ajMJZ · @brandandblush · 68 / 5** — First 9 posts for a beauty brand. Take: treat the first 3x3 grid as a trust sequence, not a catalog; the usual logo, "we're live", product x3 launch fails. The actual order is withheld for a paid call. Mostly lead-gen.
+
+**P:Dfgx1BVoOs5 · @reputeforge · 18K / 85** — Companies that pivoted (Samsung, Nintendo, Nokia, Sony, LG). Take: brands rarely start with the final product; iterate toward product-market fit. Origins listed are the post's claims (claim, unverified).
+
+**P:DYQlrEpDHuB · @coffeymedia · 263 / 6** — Posting without traction. Take: when posting is not sticking, the fix is a brand with a distinct world and point of view rather than more content. Mostly a call-booking pitch.
+
+**P:Ddid7q3oHSG · @reputeforge · 99K / 80** — Brand asset kit. Take: a brand needs a system, not one of each: 4 logo variations, multiple secondary/accent colors, several ad formats and photo styles, one primary font plus 3 supporting fonts.
+
+**P:DYi-LAQj9_9 · @curiosenn · 548 / 64** — SKIP: caption only teases the slides.
+
+**P:DaSle8ViVDU · @ · – / –** — SKIP: pure promotion with no technique (Gen-Z agency pitch; only "trends, memes, storytelling" named; keyword spam).
+
+**P:Da2AqYFEyvF · @divyangna.socialkaghaz · 301 / 22** — Free brand-research tools. Take: research audience, competitors and category before any creative decisions. Tools named: Google Trends, Milanote, SparkToro, Similarweb.
+
+**P:DRfG-ADjH2M · @yehlooooo · 572 / 65** — SKIP: pure promotion with no technique (agency "anti-agency" pitch).
+
+**P:DcNw0a0k7Ki · @divyangna.socialkaghaz · 427 / 17** — Five foundations before spending on a brand. Take: get foundations right before going loud, each step with a free tool. The 5 steps are on slides. Claims 50+ brands helped (claim, unverified).
+
+**P:DeMWr_djiYc · @kalakriti_design · 86 / 9** — Branding tip. Take: give the brand a personality; it costs nothing. Thin, no method given.
+
+**P:DPD0Nq0EVUU · @godswillbrandr · 1,889 / 60** — SKIP: generic, no actionable lesson (strategy "simplifies complexity").
+
+**P:DUqDayPki81 · @lydiacredentino_creative · 569 / 36** — Brand strategy deliverables for designers. Take: before visuals are locked, define who the brand is for and what it must say: mission/vision, values, personas, real problems, competitor analysis, voice, creative direction.
+
+**P:Dd1Q9ReiPeO · @studioonewindow · 5,341 / 102** — Category sameness. Take: brands copying the same colors and visual language blend in; build an identity people can recognise, remember and tell apart from the category.
+
+**P:DVWHVKbE90U · @likfoon · 3,884 / 139** — SKIP: caption only teases the slides (names "four content types", none listed).
+
+**P:DXlBBEiE8a8 · @romina.aminian · 6,478 / 840** — Positioning over reach. Take: if content gets views but no clients, the issue is how you are perceived; unclear positioning gets amplified by more content. Attention is marketing, trust is branding. Comment-"BRAND" gate.
+
+**P:DT4a3ouiFVX · @rhisomeadvertising · 236 / 5** — SKIP: caption only teases the slides (marketing-jargon memes plus agency DM pitch).
+
+**P:DaUeSukiCqP · @youlookmint · 964 / 32** — Brand mapping for beginners. Take: map yourself and competitors on a chart to find USPs and open gaps; useful even without a full brand strategy. Method is in slides.
+
+**P:DePJvpiEuSj · @designedbyvedant · 632 / 25** — Logo vs brand. Take: ask why the brand needs to exist before designing a logo; a logo is one part, brand means audience, difference and what you stand for.
+
+**P:DdoW5YtiZ-M · @socialneeti · 324 / 13** — SKIP: caption only teases the slides ("Part 2").
+
+**P:DaDLb-ej-u3 · @social.cameo · 9,251 / 70** — 8 sales-copy principles. Take: sell outcomes: benefits over features, scarcity for urgency, lifestyle/feeling, transparent pricing, niche down, results over ingredients, price anchoring.
+
+**P:Da-TTvpIGZ7 · @reputeforge · 5,047 / 37** — 12 brand archetypes. Take: pick an archetype that fits what you sell (Volvo as caregiver selling safety, not sports cars). "Psychology studies proved" every brand fits one (claim, unverified).
+
+**P:DWdVTzPEXxh · @bulletproof_brands · 201 / 12** — SKIP: generic, agency promo ("stand out").
+
+**P:DcV9CPijuhl · @dkurien · 4,235 / 41** — Studio origin story. Take: branding is strategy, positioning, story, personality and design working together; grew without paid ads via organic Instagram/TikTok content. Lesson: start, learn, refine, share.
+
+**P:DeBy24qmRSM · @thedigitalsol · 928 / 26** — SKIP: pure promotion with no technique (agency pitch).
+
+**P:DUdZSCGCJqt · @adrien.ninet · 21K / 249** — Branding as business asset. Take: cites Oatly (10x growth, $10B) and Jaguar rebrand (97.5% EU sales drop) as stakes (claim, unverified). Agency 5-step process: strategy, scalable brand system, product design, trust-building site, distribution. Mostly a pitch.
+
+**P:Db5VRj5ERWO · @mobileeditingclub · 17K / 12K** — Brand-building workflow with Claude. Take: moodboard (Canva/Doc), upload to create a design system and brand guidelines, generate logos, mock-ups, landing page; give direction once for consistency. Huge comment count.
+
+**P:De9R9wdGJTQ · @marketingwithgaurav · 8,718 / 225** — Marketing fundamentals. Take: marketing is research plus positioning plus communication plus action; checklist: market research, target audience, value proposition, channels, content strategy, focused campaigns.
+
+**P:DbGFXYuDy-Y · @social.cameo · 9,296 / 39** — 13 marketing terms glossary. Take: a definitions carousel (marketing vs branding, lead generation, conversion, ROI etc.); the caption states no technique. Shareable explainer format.
+
+**P:De1i8U9GJ8I · @marketingwithgaurav · 6,062 / 177** — Logo vs brand. Take: six pieces of a memorable brand: promise, customer perception, personality, story, visual identity, consistent execution. Repeats P:DePJvpiEuSj on logo-is-not-brand; new is the 6-part list.
+
+**P:DfAEzamDQmt · @mobileeditingclub · 9,333 / 17K** — Claude as a five-role content team. Take: split work into agents (strategist, creative director, copywriter, AI director for prompts/assets, editor) in one shared project for consistency. Caption cut off at role 5.
+
+**P:DYscnzWj9YB · @eltusgroup · 1,476 / 94** — Logo vs branding. Repeats P:DePJvpiEuSj; new: big brands grew via positioning and experiences, and a strong brand makes people feel something before the logo appears.
+
+**P:DZLE5xfGg9Y · @mobileeditingclub · 26K / 15K** — Claude as a brand design system. Take: feed Claude brand guidelines (or a Figma file) to produce concepts, social asset variations per platform and on-brand decks without re-briefing a designer. Comment-"scale" gate.
+
+**P:DfJW6zBE4xP · @reechal.creates · 1,516 / 20** — Six marketing concepts. Take: TOFU/MOFU/BOFU (customer journey), Purple Cow, Red vs Blue Ocean, AIDA, Lindy Effect, product-market fit; pick the one that fits the campaign rather than using all.
+
+**P:DbWcx9jiQLW · @jdomito_ · 3,757 / 36** — Choice vs relevance. Take: people want the one option that already understands their need, not more options; aim to be the obvious choice. Application CTA.
+
+**P:DZ7JxgOCWPc · @writehausasia · 403 / 5** — SKIP: caption only teases the slides (content ideas, agency contact).
+
+**P:DfFX9F_CGkB · @softriver.co · 642 / 33** — SKIP: caption only teases the slides ("9 selling principles", none named).
+
+**P:DMLYN-0P8PL · @klik.digital.official · 33 / 1** — Meme marketing. Take: memes can break ad fatigue and spark engagement (Ryanair, Duolingo cited); do it without cringe. How-to is on slides.
+
+**P:DOWihgWj4oG · @ · – / –** — Three funnels. Take: lead generation (grow list), sales (leads to customers), webinar (close higher-ticket); mostly a free-kit comment gate.
+
+**P:DcQm4IZiPOJ · @ajaysinghdigital · 793 / 12** — Five conversion techniques. Take: before changing price or product, audit the offer: show varied social proof, make the CTA state the benefit, remove friction, frame price around value, make total offer value obvious.
+
+**P:Dbbljf2DDq8 · @expert.pitch · 237 / 22** — ChatGPT prompts for client acquisition. Take: prompt areas: ideal client, offers, landing pages, content ideas, cold outreach, acquisition strategy, objections, full funnel. Use AI to execute, not replace strategy.
+
+**P:Dds4sGuES9n · @fastlane.growth · 5 / 0** — Paid trust. Take: a small purchase (e.g. $27) proves delivery better than months of free content; sell a low-ticket offer to earn trust rather than stacking free posts.
+
+**P:DdRem75EwPu · @tamimcreates · 8 / 4** — Content funnel mapping. Take: TOFU = reels, tips, stats; MOFU = carousels, how-tos, behind the scenes; BOFU = reviews, testimonials, offers. Action: label next 3 posts by stage and fill the missing one.
+
+**P:DXPZACWlArB · @iamgiuliasmith · 22 / 3** — SKIP: caption only teases the slides.
+
+**P:Ddnd1LtE1gN · @divyanshsengar_ · 335 / 11** — Six Instagram funnels by price. Take: buy-now (under ₹2,000), call (₹25,000+), waitlist (monthly open doors), DM keyword automation, webinar, free community. Match one to your price point. "Studied 1,000 funnels" (claim, unverified).
+
+**P:DbD5mBzFTG6 · @leadgen · 89 / 183** — Claude building a GoHighLevel funnel. Take: AI output stays non-sloppy when built from templates distilled from audited, money-making funnels (12 audited), with responsive screenshots checked and pages left in draft for approval.
+
+**P:DUWUTPEj5YE · @joshalltop · 699 / 16** — SKIP: caption only teases the slides (title only: build trust in 2 minutes on a sales call).
+
+**P:Db21MsKEj3_ · @lehancreates.studio · 20 / 2** — SKIP: caption only teases the slides (funnel mistakes unnamed; "pretty is good, converting is better").
+
+**P:DbiucysE04n · @ · – / –** — SKIP: generic funnel overview, no concrete technique.
+
+**P:DeNtcAHE9my · @ · – / –** — Boring service businesses. Take: sell steady services to local businesses: Google visibility for dentists/salons/gyms, automated lead capture and booking follow-up, or running online sellers' operations. Pitch customers, not "leads".
+
+**P:DeQF5cCjRmi · @kingashleyann · 34 / 0** — Views-to-sales math. Take: 10,000 views, 1% click = 100, ~2.66% store conversion = ~3 sales (benchmark, unverified; example math). Fix leaks: one post one offer, explicit CTA, weekly proof, talk to buyers; 1% to 4% click rate gives ~11.
+
+**P:DcTpckbEqVy · @ogrelogic_solutions · 39 / 0** — Five marketing leaks. Take: vague targeting, feature-dumping, clunky checkout, no follow-up, fuzzy CTA; find which one you have and fix that.
+
+**P:Dd3_FZRAd1T · @ · – / –** — Personal-brand funnel. Repeats P:DdRem75EwPu on TOFU/MOFU/BOFU; new: frame it as content to trust to conversion for personal brands.
+
+**P:DZ9hK-3nDSb · @thefaithmaduka · 11 / 1** — Simple first funnel. Take: visibility without a path leaves people leaving; a minimal funnel is landing page, thank-you page, automated email (tool: Systeme.io, free tier).
+
+**P:DfSUtyMmK8n · @edendotso · 1,673 / 700** — 200 carousel ideas in 10 types. Take: sort ideas into types (lists, before/afters, myths, stories, breakdowns) to avoid blank-slide paralysis. Comment-"STRATEGY" gate.
+
+**P:DaknCvDCNGt · @reputeforge · 4,654 / 78** — SKIP: caption only teases the slides (Claude prompts for social strategy).
+
+**P:DemfMAsmyKc · @edendotso · 1,284 / 315** — 200 reel ideas in 10 kinds. Repeats P:DfSUtyMmK8n; new: same sorted-bank approach for reels, "pick one and film today".
+
+**P:DcJXeZ4iP_L · @ · – / –** — Carousel design checks. Take: avoid ignoring reading patterns, poor contrast, no slide-to-slide flow, disconnected imagery, outdated dimensions; build hierarchy and curiosity between slides.
+
+**P:DcgKzj8FGvU · @ig.aryaman · 2,942 / 1,484** — SKIP: caption only teases the slides (carousel formats list behind comment gate; "better presentation of existing ideas").
+
+**P:DbnSUDBCg69 · @thecreator.club · 4,045 / 60** — 200 reel ideas. Repeats P:DemfMAsmyKc; nothing new.
+
+**P:DZz17R5FCgm · @artem.novitckii · 6,984 / 19K** — Five Claude skills for content. Take: generic prompting yields slop; separate skills for simpler language, story structure, hooks surviving 2 seconds, an anti-AI cleanup pass, and a voice-DNA profile.
+
+**P:DcyMJg8DZvr · @growthwithhardik · 1,084 / 482** — Hooks. Take: content must make people stop, feel or get curious; hook quality is the lever. Comment "HOOK" for 100+ hooks.
+
+**P:Db-FprgEjio · @creatorzone.io · 8,791 / 2,607** — SKIP: caption only teases the slides (comment-gate for content guide).
+
+**P:DcgBDWLAS0N · @growthwithhardik · 19K / 7,303** — Posting is not marketing. Take: replace "what should I post?" with: who am I reaching, what do they need, why care, what next. Content should attract, build trust, then move to action.
+
+**P:DVdjSmbjf8a · @themarketingsharuf · 3,086 / 27** — Content workflow. Take: brain-dump ideas, shape into a simple structure, polish before posting; clarity over perfection. Phases are on slides.
+
+**P:DRsNxoBjLB- · @socialsyncflow · 13K / 254** — SKIP: pure promotion/teaser (monthly content ideas, comment "YEAR").
+
+**P:DQHUynsE4Nz · @nitrachasri · 4,565 / 148** — ChatGPT content prompts. Take: give the AI context first: what you do, dream client, their struggles/desires, what you sell, brand tone and goals.
+
+**P:DaE33menOw8 · @realmelaninking · 3,850 / 603** — SKIP: caption only teases the slides ("5 viral formulas").
+
+**P:DUuFuJsDIK2 · @matthgray · 3,599 / 853** — SKIP: pure promotion (Content Idea Machine, 30 ideas in 5 minutes, comment gate).
+
+**P:DdWI7ANGiNZ · @kurated.social · 1,119 / 60** — SKIP: caption only teases the slides (skincare shoot formats).
+
+**P:DdY8GbwgfEp · @growthwithhardik · 1,807 / 1,030** — Content that converts. Repeats P:DcgBDWLAS0N; new: three questions: who is it for, why should they care, what should they do next.
+
+**P:DXi-gecgTzx · @theclickmechaa · 1,922 / 148** — Posting vs marketing. Repeats P:DcgBDWLAS0N; new: plan, target and measure content.
+
+**P:DWDxAtwDnuj · @lemonmediacompany · 4,761 / 82** — SKIP: caption empty of content (keyword stuffing only).
+
+**P:Dc8hGYwEhpk · @creatorzone.io · 2,750 / 856** — SKIP: caption only teases the slides (comment-gate for content guide).
+
+**P:DaHtiL5CBYX · @airaverse.official · 24 / 2** — Why seven posts went viral (Kumar method). Take: virality came from a repeatable system: scroll-stopping hook, one idea, strong visual storytelling, real examples, a save-worthy takeaway.
+
+**P:DfM0uJLk9vv · @nitrachasri · 1,688 / 69** — Hooks. Take: creators spend 30 min on content and 30 seconds on the hook; rework the first line when reach drops. Offers 25 short hooks. Related to P:DcyMJg8DZvr (hook importance).
+
+**P:DfiPnbFjZ_L · @socialwithphilip · 937 / 687** — Claude Instagram strategy in 7 steps. Take: project with business/client/offer/tone; give each post a goal; paste real DMs to get client language; 3-5 pillars; match formats to hours; 4-week matrix (goal, pillar, format, hook, CTA); monthly Insights review.
+
+**P:Dfl33_Wkpd3 · @creatorzone.io · 1,163 / 569** — SKIP: caption only teases the slides (comment-gate).
+
+**P:DfzXYfJDvTh · @thesanskaarsingh · 929 / 1,955** — Claude skills as a content team. Take: skills cover trend research, ideas, scripts, repurposing and calendar planning; seven are not named in caption.
+
+**P:Dcn8vzjk--9 · @priyanshi.social · 671 / 21** — Reel retention. Take: stronger 3-second hooks, visual cuts and text overlays for pacing, replay-worthy loops, weave the message throughout. Retention drives reach (claim, unverified).
+
+**P:DbIq4G5DHdw · @shemeanssocial · 5,875 / 1,947** — SKIP: caption only teases the slides (social strategy template behind "TOOLBOX").
+
+**P:DOsMdr3jvyp · @redonadida · 16K / 183** — Cover hook. Take: spend about 80% of effort on the cover and hook; if it fails, nobody reads the rest.
+
+**P:DW9WuUiAanC · @sociyell · 1,054 / 172** — Campaign vs content dump. Take: build a campaign as an 8-step decision sequence: pressure-test idea, lock emotion, message system, one visual world, connected assets, variations, test hooks/visuals/messages, double down.
+
+**P:DdD-pq4jkQj · @momentummarketingme · 80 / 2** — SKIP: caption only teases the slides (10 static post formats).
+
+**P:DGLSGD2g-1v · @imdanielaqueiroz · 2,972 / 209** — Community content. Take: besides growth and sales content, post connection content: behind-the-scenes, processes, personal stories, unique perspectives.
+
+**P:DdvtIALEiCx · @swastik.nandakumar · 1,187 / 448** — Format over ideas. Take: "you have a format problem": repeatable formats (50 in carousel) turn expertise into posts. Handbook behind comment gate.
+
+**P:Dbt2GLliZRo · @latifsetiawan.crm · 2,869 / 12** — Pricing strategies (Indonesian). Take: price by goals, not cost or competitors; 10 types: cost-plus, value-based, competitive, penetration, skimming, premium, psychological (Rp99,000 vs 100,000), dynamic, bundle, freemium.
+
+**P:Df3ELJzmx0H · @byryangambrell · 408 / 66** — SKIP: caption only teases the slides (pricing worksheet behind comment).
+
+**P:DfgdYnQn9WK · @d2cwithanant · 19 / 2** — D2C pricing in India. Take: do the math before launch; marketplace commissions, COD, returns and ad costs erode margin when pricing from factory cost.
+
+**P:DWVYB-FjOIL · @techiegigsofficial · 493 / 21** — Neuromarketing pricing. Take: framing effect, anchoring (first price sets reference), rule of three (middle option attractive), "free" lowers perceived risk. Claims unverified.
+
+**P:DIWIj1MyDVg · @themarketingsharuf · 1,219 / 169** — Instagram selling. Take: product-after-product posts get ignored; attract with story, audience problems and value so trust leads to sales.
+
+**P:DZsVs-8Ff8C · @academy_of_wealth · 6,210 / 2,166** — Underserved niches. Take: serve unglamorous industries (med spas, SaaS, real estate) that lack content strategy and will pay for content architecture. "$4.5T" figure (claim, unverified). Comment-gate.
+
+**P:Df7OK55FLM4 · @chasehunterdimond · 100 / 2** — Pricing presentation. Take: customers judge value received, so present pricing to make value easier to understand rather than just cheaper.
+
+**P:Dd1FnAREpcJ · @reputeforge · 14K / 76** — Marketing vs branding scope. Repeats P:De1i8U9GJ8I; new: marketing includes research, campaigns, funnels, value proposition, pricing, partnerships, SEO beyond advertising.
+
+**P:DdVtxhUkQZq · @designbyana2 · 1,039 / 231** — 99 ChatGPT sales/marketing prompts. Take: prompt categories span personas, positioning, ad copy, cold email, objections, retention, SWOT. A prompt-list/lead-magnet format.
+
+**P:DfpRozFnAez · @theeasyvc · 76 / 7** — Pricing sanity check. Take: investor check that customers times price roughly matches the revenue slide; mismatch is the first question. Pricing is the fastest thing to change.
+
+**P:DPeZrx6jnpX · @matthgray · 1,892 / 990** — SKIP: pure promotion (Offer Evolution Playbook).
+
+**P:DfB4oR8ICmW · @bina.au_ · 32 / 4** — Three-tier quoting. Take: send Premium, Standard, Basic (Premium first) so the question becomes "which one?"; compromise effect (Simonson 1989, claim, unverified). Each tier a job you'd gladly do; never cripple Basic.
+
+**P:DenN5n9iFEd · @startupstealth · 1,456 / 215** — Pricing models for founders. Take: model choice shapes growth; options: subscription, freemium, cost-plus, value-based, usage-based. No criteria given.
+
+**P:DeDIMS_Eel3 · @jamietaylorcreates · 8 / 0** — Price objections. Take: a question about your price is not proof it is wrong; hold price, ask better questions, adjust scope rather than discount.
+
+**P:DdiHMFokb1d · @buildwithorin · 104K / 444** — Price signals trust. Take: a low price makes clients hover and recheck work, a higher one earns trust and deference for the same service. If every client is hard work, check pricing.
+
+**P:DddzyHej0YN · @ · – / –** — Pricing psychology. Take: anchor with a credible premium option, add a decoy, show value gap versus alternatives, reduce friction, optimise profit (conversion, revenue per visitor, refunds, contribution margin) not sales volume.
+
+**P:DYB4144k5jD · @rkminsights · 28 / 3** — Pricing influence. Take: claim that pricing can outperform better ads; no method stated (claim, unverified).
+
+**P:DCEhtzLTvLI · @peter.visuals · 16K / 328** — SKIP: caption only teases the slides (pricing psychology).
