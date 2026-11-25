@@ -162,6 +162,12 @@ our own notes on them.
 
 </details>
 
+## Credits
+
+The banner is drawn by [`assets/make_banner.py`](assets/make_banner.py), following the diagram rules of
+[stack-diagram](https://github.com/caru-ini/stack-diagram) (graph-paper canvas, white tiles, one accent, orthogonal labelled arrows)
+and the pixel-art rules of [pixelfx](https://github.com/patch-gg/pixelfx) (hard grid, small palettes, one ink line, no smooth gradients).
+
 ## Licence
 
 [MIT](LICENSE). The licence covers this repository's own code and writing. Creators named in `curriculum/` own their original videos
