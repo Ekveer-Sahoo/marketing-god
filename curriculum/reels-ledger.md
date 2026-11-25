@@ -533,3 +533,30 @@ missing proof. The classic car line about the clock being the loudest sound at 6
 saves; not "trusted", say who trusted it; not "durable", show what it survived. Take: this is our "specific beats clever" rule, with the
 best one-line statement of it so far: people believe sharper proof, not bigger words.
 **Skipped:** Dfp30qZttLV (@yesfazal, AI entertainment clip).
+
+## Batch 12
+
+**DeSo9IHtAO_ · @byryangambrell · 5.7k / 440** — checklist of what accepted startup applications share: explained in one sentence, zero
+marketing-speak, founders can build it themselves, a few people want it badly (over many who want it a little), already launched, someone
+already paying, a one-minute video. Take: the same run-on checklist format as his launch reel; "a few who want it badly" is a positioning rule.
+**DfwMaaXhq39 · @learnwithraghavarora · 2.5k / 13** — storytelling rule credited to Trey Parker: beats joined by "and then" are boring;
+beats joined by "but" and "therefore" move. Example: went shopping *and then* got coffee vs went shopping *but* got tired, *therefore*
+got coffee, *but* it started to rain. Take: check every script for and-then chains and rewrite them as but / therefore.
+**DdakHWSg2vJ · @martinwang.mp4 · 38.2k / 47.4k** — "A video is a message plus a format." Shows a viral reel beside his remake three times
+(same structure, his own message). Comment FORMATS for 100 formats. Take: collect formats separately from messages; comments ran above likes.
+**DfNiO9wpdqm · @martinwang.mp4 · 66.4k / 1.1k** — "Rare traits among successful people, episode 2: the walking contradiction."
+Take: flattering identity content in a numbered series; viewers share what describes them.
+**DQA_xy2gHIb · @martinwang.mp4 · 28.2k / 519** — vlog: running a marathon with no training. Take: a stated question and a real stake
+carry two minutes; not a marketing lesson.
+**C21ZrTwi2LF · @socialsoravjain · 33.2k / 490** — Instagram grid layouts (tiles, row by row, line in the middle, colour-limited, borders).
+Take: profile-as-a-whole design; old-format reel.
+**C242chLSHeD · @socialsoravjain · 10.0k / 99** — two-person skit: a makeup artist's account audit. Keywords and city in the name field;
+services, client count and phone in the bio; highlights by customer type; client photos; transition videos. Take: local-service profile
+checklist, delivered as a client conversation.
+**Dak-yeiK639 · @storyboard.magic · 12.8k / 18** — campaign teardown: a condom brand launches a lubricated product by coining a word for a
+problem people hadn't named, then seeding it through creators until the word itself spread. Take: name the unnamed problem; the word
+becomes the campaign.
+**DZ1mFWWxbZd · @storyboard.magic · 1.8k / 3 · Hindi** — a famous Indian cola ad was a near frame-for-frame remake of a US ad. Take:
+proven formats get re-run in new markets (compare the ad-multiplier idea); remaking someone's ad shot for shot is a rights problem, so
+reuse the structure, not the footage.
+**Duplicate:** DbXpUPQx9wr is a repost of DbXYv_2R0YI (round 1).

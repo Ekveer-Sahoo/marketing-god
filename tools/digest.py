@@ -55,7 +55,7 @@ def main():
     a = ap.parse_args()
     fs = folders()
     if a.todo:
-        led = (OUT_ROOT.parent / "reels-ledger.md").read_text(encoding="utf-8")
+        led = "".join(f.read_text(encoding="utf-8") for f in sorted(OUT_ROOT.parent.glob("reels-ledger*.md")))
         fs = [f for f in fs if f.name[10:] not in led]
         print(f"TODO remaining: {len(fs)}")
     fs = fs[a.start:a.start + a.count]
