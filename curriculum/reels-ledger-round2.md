@@ -286,3 +286,145 @@ format, the hook and the take. `SKIP` marks items with no marketing lesson. Note
 **Dc1nGiHuWfw · @gobirdmasterclass · 63390 / 15565** — Montage, comment-keyword list. Hook: songs for four video types (education, day in life, emotional, storytelling). Take: repeats DdcQ6xhOOQ5; only new is the type list. Huge comment count from a free-list CTA.
 
 **Df8K26qMe9q · @handshakesnhugz · 4162 / 27** — Talking head, escalating "but" list. Hook: "If you post consistently, nobody cares about you." Take: stack skills: consistency, then hooks, then storytelling, then showing transformation; each addition raises the outcome. Escalating structure is reusable for any "level up" message.
+
+## Batch C
+
+**DcrgFS9O6_7 · @viewcci · 7303 / 117** — Talking head, A/B/C demo of one line read three ways. Hook: "This is bad... this is good... this is amazing," same words each time. Take: delivery changes performance more than wording. Mark where you pause, which word you stress, and the energy of the first second before you film. Reading a hook flat wastes a good one.
+
+**Dfw5D0usSis · @keevinnlc · 965 / 112** — Talking head, short intro. Hook: you can't make a viral edit and it isn't the course you lack. Take: caption pushes tight pacing, layered sound and visual contrast in the first 3 seconds (claim, unverified). Mostly a teaser; the useful part is treating the opening seconds as a separate editing job.
+
+**DYzNcLotDyY · @brandlab_pro · 3 / 3** — Case study, voiceover. Hook: "One of the smartest personal branding ideas you've seen." Take: build something people want to photograph so they advertise you. A mirror framed like an Instagram post, with her name and avatar, placed in public spots, turns every selfie into free distribution.
+
+**DY47zfLFWHi · @aymen_berrahma · 1512 / 56** — Talking head, short opinion. Hook: "You cannot be a shy founder." Take: talk about the build daily and rotate three jobs: educate, inspire, entertain. Generic, but it gives a simple content rotation for a founder with nothing to post.
+
+**DOlWIZgkonM · @bytheway.deshna · 4630 / 95** — Talking head explainer with creator examples. Hook: "In under 60 seconds I'll make your content go viral." Take: "trigger identity": describe your audience's situation and habits so they think "that's so us". Relatability beats raw value. CTA asks viewers to tag one creator who gets them, which boosts comments.
+
+**DfkgBojhRu0 · @mollystovold · 1859 / 45** — Talking head, framework. Hook: cold LinkedIn requests are outdated; her client went 11k to 131k monthly revenue (claim, unverified). Take: "borrowed audience". List five bigger authorities in your niche, then leave thoughtful comments on their posts so their audience sees you. Build attention before pitching.
+
+**DLPP--ss6CL · @ant.lon · 923 / 34** — Talking head, personal story. Hook: nobody builds a personal brand by outsourcing to a caption-and-cut editor. Take: freelancers can move from deliverable pricing to strategy pricing. He stopped quoting edits and pitched a long-term plan for the client's brand. A positioning lesson for service sellers.
+
+**DXcZdKjEuns · @bytheway.deshna · 2024 / 920** — Talking head, trend claim. Hook: founder content won't scale in 2026. Take: struggle stories are overused, so show decisions: what you chose, why, what changed. It sells how you think and is harder to copy. Comment-keyword CTA drove 920 comments.
+
+**DeXnbhxurWk · @viewcci · 4339 / 93** — Talking head, retention graph. Hook: "90% of you get this wrong"; the problem is what follows the hook. Take: don't answer the hook right away. Ask a second question, delay the solution, add a rehook, then end the video the moment the payoff lands.
+
+**DeaU-5nivmu · @denis.panjuta · 79 / 32** — List, voiceover. Hook: a run of "post X to get Y" lines. Take: pairs each LinkedIn format with a job: carousels for dwell time, case studies for authority, testimonials to cut hesitation, FAQs to pre-empt objections. Choose format by goal. Comment-keyword CTA for the full list.
+
+**De_DUxqiGgY · @vanshh_co · 972 / 15** — Case study, voiceover. Hook: everyone says pick one niche forever; the big Indian creators didn't. Take: build trust in a person, not a topic, then launch products to a ready audience. Example given is a comedy creator who later launched a shapewear brand.
+
+**Cq2vALHukTI · @vedikabhaia · 5807 / 110** — Talking head, case study from her agency. Hook: a client went 2k to 30k LinkedIn followers in 3 months (claim, unverified). Take: stay narrow, mix in about 30% topical content, and post real-time updates (events, wins). Constant visible activity was named as the biggest driver. Also promotes her agency.
+
+**DXR3cwXEaAv · @longevitypenguin · 14806 / 6285** — Talking head, tier ladder. Hook: good camera and lighting puts you in the "top 50%" of personal brands. Take: a ladder of upgrades: pinned posts showing who you are, mixed content, bio sending people to a trust video, weekly story CTAs to DMs. Percentages are (claim, unverified). Rank-yourself format pulls comments.
+
+**DgFiY6FTi4p · @chakkikartofficial · 6 / 21** — Text caption on b-roll, sourcing note. Hook: the best packaging supplier wasn't on page 1 of IndiaMART. Take: top marketplace listings are mostly traders, so dig deeper for makers when sourcing; certifications (food safe, compostable) are the filter. Operational tip, not a marketing technique.
+
+**Den3QkrTJnY · @dukaandari.tv · 5841 / 74** — Skit comparison, Hinglish. Hook: "What did this vegetable seller get wrong?" Take: an unasked free extra (coriander) wins a repeat customer. Contrasts a ₹400 ad cost for a new customer with a ₹30 gift to keep an old one. Surprise-and-delight works only when unrequested. Comment-keyword lead magnet.
+
+**Ddl0AK9v6I_ · @sidhantkeshwani · 138 / 2** — Talking head, list of three. Hook: the three hires before a logo. Take: for a consumer brand, hire a sourcing operator (margins), a content operator (organic demand) and an operations lead (returns, repeat purchase). Sequence people before branding.
+
+**DgASs6pTt-L · @meghanachandani_ · 43 / 96** — Screen-recording tool demo. Hook: stop scrolling the Meta Ad Library for hours. Take: a Claude skill on a scraper that reads a rival's live ads, counts them, dates the oldest and splits by format and landing page. Lesson: run competitor ad research as a repeatable command. CTA comment "SCOUT".
+
+**Del0ngSThaZ · @munnasamjhao · 11771 / 2536** — Skit/dialogue, Hinglish. Hook: founder puts the whole budget in Meta ads. Take: sequence spend. Month 1 fix the website (reviews, speed, checkout) and post educational content. Month 2 add ads and influencers once comments and DMs start. Google ads when people search the product. Test with 100 visitors.
+
+**DdLKJx9Ipt1 · @deepta.in · 158 / 8** — Talking head, list of four. Hook: four non-negotiables for a nutrition brand in 2026. Take: simple form factor (fewer pills), label transparency and lab reports, a defined audience built on one shared problem, and owning the shelf. "Generic for everyone means nothing to no one."
+
+**DYo_Lseysvo · @bitsbytan · 85 / 18** — Talking head, opinion. Hook: 2026 is the worst time to start a D2C brand, unless you know what you're doing. Take: negative-framed hook, then the fix: trust, recall and a clearly defined audience. Line worth borrowing: too many forgettable brands, not too many brands.
+
+**DcRDV-jvUqM · @astha.tandon · 672 / 34** — Case study, founder voiceover. Hook: an Amazon best seller failed Blinkit trial. Take: a vivid worked number (8 units, 1 damaged, 12.5% complaint rate versus a 3% threshold) makes a systemic problem personal. Ends on a debate question to farm comments. Lesson: small trial orders leave no margin for error.
+
+**Dfg2uc-hbuN · @avvantikadevgan · 4109 / 721** — Talking head, trend thesis. Hook: the next 100 crore brand is in the children's aisle. Take: predict categories by following influencers' life stages (GRWM beauty, then wellness, now motherhood). Millennial parents research labels and trust founders. Supported by a cited article (claim, unverified).
+
+**DfkTtSmzS4S · @dukaandari.tv · 119 / 8** — Explainer, Hinglish voiceover. Hook: no sale banners, still below MRP daily; how does DMart do it? Take: owning stores and paying suppliers fast earns better rates, passed on as steady low prices. Lesson: fast payment to suppliers buys price. Comment-keyword lead magnet.
+
+**Debvus9zbx3 · @munnasamjhao · 7332 / 1038** — Skit/dialogue with worked P&L. Hook: ROAS 3 and ₹10 lakh revenue, so where's the money? Take: post-mortem one order through contribution margins (CM1 product, CM2 shipping, COD, returns, CM3 after ads). Break-even ROAS is what counts, not ROAS alone. Worked example makes the point concrete.
+
+**Dfgt3WmiNj5 · @omsrikeshari · 35 / 13** — Talking head, short rule. Hook: "20% off or ₹600 off? Same saving, one looks bigger." Take: "rule of 100": show discounts in rupees above ₹100 products and in percent below. Whichever number is bigger wins. Attributed to Jonah Berger (claim, unverified). Action: check your banners today.
+
+**DecO4QKvzdU · @nandini.chopraaa · 40 / 1** — Talking head, brand-building teaser. Hook: product is made in the factory, brand is made in the mind. Take: product is experienced only after purchase; brand earns the stop, the trust and the try. One quotable line, little else.
+
+**Df9v0gKv7ns · @astha.tandon · 77 / 10** — Talking head, opinion. Hook: Amazon went discount-obsessed; is quick commerce next? Take: "lowest price in 30 days" tags make your price their marketing while the brand eats the margin. Lesson: platforms train shoppers to buy price, not brand. Ends with a comment question.
+
+**Df8ssjwB9vF · @sopankhekade · 17 / 0** — Metaphor explainer, Hinglish. Hook: ads running, traffic coming, no sales; "the problem is your bucket." Take: three leaks to fix before more spend: slow site, confusing page, no follow-up. Simple memorable metaphor for explaining conversion to clients.
+
+**DfuG9i7TB4d · @vanshikashharmaa · 10 / 2** — Product teaser, short. Hook: Korea's jelly-stick trend made functional for India. Take: borrow a trend from another market, add a function, and use a comment keyword ("FIBRE") as a demand check before launching.
+
+**De3iCNGgep9 · @omsrikeshari · 61 / 25** — Talking head, short rule. Hook: "20% off or ₹400 off on a ₹2,000 product?" Take: repeats Dfgt3WmiNj5 (rule of 100). New: ends with "compare clicks" as a test and offers 10 banner examples for a comment.
+
+**DfZ2QGgGfGZ · @digitalberries · 356 / 13** — Case study, results claim. Hook: ₹35,000 ad spend into ₹5.1 lakh in 7 days. Take: three steps, creator reels as ads, fast creative testing (cut losers, back winners), ABO pacing. Numbers shown: 27,683 sessions, 599 orders, 14.5x ROAS (claim, unverified). CTA comment "ROAS".
+
+**DeqcMaaztvK · @dukaandari.tv · 2297 / 327** — Skit comparison, Hinglish. Hook: same papaya, same price, why does the crowd pick one cart? Take: show the inside in the first photo (cut, in hand, in use, on a model). Claimed doubled clicks and halved cost per order (claim, unverified). One photo cost pays off every click.
+
+**Df4Yb0rJByo · @nush.unfizzed · 187 / 2** — Talking head, lessons list. Hook: mistakes after launching on Instamart in 16 cities. Take: ops checklist for quick commerce: PO and invoice number on every box, learn OOS, SOH, DOH and fill-rate terms, stock availability drives rating, and little consumer data. "Distribution is the real product."
+
+**DI1DCchpHGs · @unpkd.ideas · 3 / 10293** — Voiceover over b-roll, teaser. Hook: "No one is using this packaging in India." Take: curiosity gap and "comment BOX" bait drew over 10k comments from few likes. Shows keyword CTAs inflate comments, not interest; the product is never explained.
+
+**DgAMb4DTdI5 · @munnasamjhao · 75 / 9** — Skit/dialogue, Hinglish. Hook: if you hunt first-order profit, you're playing the wrong game. Take: TUR funnel (Trial, Upgrade, Repeat). Sorry Sugar charged ₹399 for a trial pack, credited it against a bigger pack, and earned on repeat. Works for repeat-purchase categories only; otherwise upgrade to a second product.
+
+**Dfq8RU4FcMJ · @omsrikeshari · 1724 / 3388** — Screen-recording demo, Hinglish. Hook: agencies charge thousands for this section; I'm giving it free. Take: price-anchor against agency fees and give away a Shopify "runway" section made with an AI prompt. The free tool is bait for comments.
+
+**Da-lLShJrJN · @cindiezhu · 3827 / 4177** — Screen recording, tutorial. Hook: "You can make 100 UGC ads just by chatting to Claude." Take: connect an ad-video connector (Arcade/Arcads), generate a synthetic actor holding your product, then render the same product with different hooks. Ask for only the top three ideas to save credits. Keyword CTA "ADS".
+
+**DfxN4znBia8 · @thed2cguy · 610 / 661** — Text list, rapid listing. Hook: a run of ad formats (don't buy this, breaking news, trust review, we're sorry, low stock). Take: a menu of native ad formats; most useful are "we are sorry", "us vs them", "myth vs fact", "before after". Repeats the format lists in Batch A; new part is the apology and zero-star formats. Keyword CTA "Format".
+
+**DYIv3opDPJv · @thecoachbraydon · 6757 / 146** — Screen recording, tutorial. Hook: "Claude can now make UGC videos." Take: repeats Da-lLShJrJN. Steps: install the Arcads skill from its repo, upload a product photo, let Claude plan concept, script and follow-up questions, get a video in minutes.
+
+**DTX4Y9_krXx · @olivermerrick___ · 2605 / 4133** — Talking head, process. Hook: everyone's doing AI UGC wrong. Take: build an advanced context profile of the product, then run separate prompts for ideas, hooks and scripts, and test avatar x environment x script. Bracketed emotion cues in scripts steer delivery. Keyword CTA "AI".
+
+**DWSienrAIxS · @melanierrenee · 1416 / 129** — Product demo, UGC sample. Hook: "Wait, you're still typing your scripts?" Take: open with the audience's current pain as a question, show the product in use (making coffee while talking), and close on "your competitor already switched". Minimal editing, voiceover carries the sell.
+
+**DXcEtlBimKF · @mavgpt · 5626 / 6021** — Screen recording, tutorial. Hook: "Claude just destroyed ad agencies." Take: repeats Da-lLShJrJN: install the Arcads skill, upload product, request a high-converting UGC ad, then ask for 10 variations with 10 avatars. Big claim headline plus "comment UGC" CTA.
+
+**Dbnz5zzjXvz · @migs.visuals · 226 / 268** — Screen recording, tutorial. Hook: "Is it just me or this feels too realistic?" Take: repeats Da-lLShJrJN. New: two steps, generate a reference image first, then animate it with a video model. Goal is testing more videos cheaply before committing to a real shoot.
+
+**DegpB3kNXpY · @insightsbyabheet · 221 / 194** — Talking head summary. Hook: a Wispr Flow marketing hire revealed the UGC playbook. Take: start with four or five excellent creators, not hundreds, then build culture (fly top creators in, give perks). Quality over creator count. Source video is long; CTA is "send".
+
+**Df7UW-nh64N · @thed2cguy · 280 / 227** — Text list, funnel-organised. Hook: ad formats per funnel stage. Take: top of funnel (POV skit, founder story, myth vs fact), middle (testimonial, us vs them, objection handling, tier list), bottom (cart reminder, offer with real deadline, low stock, restock). Match format to stage. Keyword CTA "Funnel".
+
+**DdJbmnyN1Dv · @akhiweshai · 732 / 1604** — Screen recording, list of prompts. Hook: add your product to Google Flow and type "smoke reveal". Take: one product image becomes many ad styles by changing a named prompt: Times Square 3D, miniature world, POV demo, UGC hook. Offers a 100-command guide for a comment.
+
+**DVbdlR7AvlP · @leogibson.mp4 · 722 / 75** — Product demo, UGC sample. Hook: afternoon brain-fog routine. Take: tech UGC sold through a relatable routine with numbered steps, each tied to one product shortcut. Pain first, features hidden inside a story. Shows the example format DM-askers wanted.
+
+**DdZm8e_N_69 · @mobileeditingclub · 518 / 1135** — Screen recording, step list. Hook: "This Claude skill creates ads for your product." Take: repeats Da-lLShJrJN. New: feed it a brand-info folder, ask for 10 concepts with different angles, and have it read ad results next time so it makes more of what worked.
+
+**DaBcRskz6_2 · @vibha.in.progress · 810 / 2822** — Screen recording, system walkthrough. Hook: "Claude can run 100 ad tests." Take: matrix build: 50 hooks across awareness levels x 3-5 body formats x up to 3 CTAs = 150-750 ads, scored on a tracking sheet and the losers killed within a week. Keyword CTA "FACTORY".
+
+**DXsH_J0E1rI · @viznfr · 1008 / 656** — Screen recording, workflow. Hook: "I run 100 ads a day for my skincare brand, about $1 each" (claim, unverified). Take: Claude writes 10 scripts per prompt, an avatar tool voices and builds the scene. Volume of cheap variants beats three polished ads a week. CTA comment "UGC".
+
+**Df8sZe5pcu9 · @siddhichavan25 · 56 / 7** — Tier list, talking head. Hook: ranking 9 D2C ad formats best to worst. Take: S before/after; A founder, testimonial, UGC/review; B static and myth vs fact; C meme; D AI-generated and over-polished. Polish makes people scroll faster (claim, unverified). Allocate budget by tier.
+
+**C-W01xFOest · @youngurbanproject · 3 / 113** — Screen recording, tool demo. Hook: UGC-style ads are blowing up. Take: paste a product URL into an AI ad tool, get four script variants, pick one, choose an avatar. Mostly a promo for one tool; the takeaway is producing UGC scripts from a product page.
+
+**DdruV-mhkRp · @uzi.prints · 4117 / 101** — Screen recording, tutorial. Hook: a convincing AI UGC clip and a claim of cheaper tokens. Take: the starting frame decides quality. Prompt for a realistic phone-style photo first, then animate it. Claim that the model is "4x cheaper, 5x faster" is (claim, unverified).
+
+**DZH29Ykspef · @ugcbymills · 1626 / 112** — Case study, creator breakdown. Hook: "Every time I wear this fragrance my boyfriend goes crazy." Take: UGC wins on psychology, not lighting. Open with the emotional payoff (how others react), film casually while walking, and cut in product b-roll so it doesn't feel like an ad.
+
+**Da3fh3JN09U · @mobileeditingclub · 675 / 1619** — Screen recording, short tutorial. Hook: "Claude can generate hundreds of UGC videos." Take: repeats Da-lLShJrJN. New: place the generated actor in a real setting (a bathroom holding the product), then swap models and angles. Offers 20 prompts for a comment.
+
+**DefMmjroWsk · @okayburade · 1138 / 39** — Rapid rating list, talking head. Hook: ad formats scored out of 10. Take: his scores: static 9 (underrated), AI video 8, UGC 7 (overused), carousel 6 (best for remarketing), branded video 4 (costly). Opinion ratings, so verify with tests. Transcript is garbled.
+
+**C167bN9SklZ · @therahmanashiq** — SKIP: audio is a music clip, no technique visible.
+
+**DehSJiwz9A3 · @swastik.nandakumar** — SKIP: follower milestone thank-you.
+
+**DgJ-gRsutPl · @d2cfounderseries** — SKIP: book promo, no technique.
+
+**DePNRWjP4-n · @achaarlibrary** — SKIP: packing-day clip, no lesson stated.
+
+**DTu7W1agTmC · @farmkin.in** — SKIP: no transcript, caption has no lesson.
+
+**DSQlwIWDMXl · @itsnovamotion** — SKIP: AI UGC sample clip, no technique explained.
+
+**DcB4QYwyV7D · @kritikaa.ugc** — SKIP: creator-platform promo, audio unintelligible.
+
+**DYmb5mWBRd8 · @mii.glows** — SKIP: no transcript, caption lists editing apps only.
+
+**DfVDgVfj_jB · @adswithcami** — SKIP: swipe-file promo, audio is a song.
+
+**DXmR8S_jsxv · @pixuryapp** — SKIP: app promo, no technique.
+
+**DX4WdsTIDZg · @salome__ai** — SKIP: teaser with no content, comment-bait only.
+
+**DFQw_-7vjp1 · @_selena_ugc** — SKIP: creator portfolio sample, no transcript.
+
+**DWO0AqmDrr3 · @ugcwithkaytelynn** — SKIP: creator portfolio sample for an app.
+
+**DY5nmR7ub_7 · @dylan.tigereye** — SKIP: creator portfolio sample for a tool.

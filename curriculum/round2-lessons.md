@@ -121,3 +121,22 @@ Claims from creators about platforms and statistics are unverified.
 - Patterns: Openers are a contrarian claim or shock stat ("90% fail"), an "Your X isn't bad, your Y is" reframe, or a fake-casual scene. The CTA mechanic is nearly universal: "Comment WORD and I'll DM the guide/PDF/prompts", which drives huge comment counts (AI, Claude and hook posts reach thousands) while the caption carries little content. Many captions are pure teasers ("save this", "swipe") with the lesson only on the slides. Hook lists (30-100 items) dominate and repeat across creators. Hashtag/keyword blocks are stuffed at the end. Stats and income claims are unsourced. Case-study posts are mostly agency promotion; the few with specifics (LEGO, Vaseline, skincare) are the useful ones.
 - Worth reading the slides: P:DctZRuyCBfI, P:DcAttBYFCs9, P:DfXlaSZH-rB, P:DfUPyS1E1XX, P:DfQ5RxHjg1S, P:DS5CahSDHhB
 
+
+## Batch C (hashtag videos, 56 studied, 14 skipped)
+- Delivery beats wording: read one hook three ways and mark the pause, the stressed word and the energy of the first second before filming (DcrgFS9O6_7).
+- Retention: after the hook, ask a second question or add a rehook instead of answering at once, then end the video when the payoff lands (DeXnbhxurWk).
+- Borrowed audience: list five bigger authorities and leave thoughtful comments on their posts so their followers find you (DfkgBojhRu0).
+- Decision-led founder content: show the choice, the reasoning and the result, because struggle stories are overused (DXcZdKjEuns).
+- Post-mortem one order through CM1, CM2 and CM3; break-even ROAS matters more than ROAS (Debvus9zbx3).
+- TUR funnel: cheap trial pack, trial price credited toward a bigger pack, profit on repeat; only for repeat-purchase categories (DgAMb4DTdI5).
+- Rule of 100: show discounts in rupees on products above ₹100 and in percent below, whichever number looks bigger (Dfgt3WmiNj5).
+- Sequence D2C spend: month 1 site and organic content, month 2 ads and influencers once comments and DMs appear (Del0ngSThaZ).
+- Unrequested free extra (coriander) keeps customers; compare ₹30 retention cost with ₹400 acquisition (Den3QkrTJnY).
+- Lead photo shows the inside, in hand or in use; claimed to double clicks (claim, unverified) (DeqcMaaztvK).
+- Ad creative matrix: 50 hooks x 3-5 body formats x up to 3 CTAs gives 150-750 variants; track on a sheet, kill losers within a week (DaBcRskz6_2).
+- Start UGC programs with four or five excellent creators, then build culture, instead of hundreds of average ones (DegpB3kNXpY).
+- AI UGC quality hinges on the first frame: prompt a realistic phone-style photo first, then animate (DdruV-mhkRp).
+- Pick ad format by funnel stage (top POV skit, middle testimonial, bottom deadline offer), and rank formats by tier before allocating budget (Df7UW-nh64N, Df8sZe5pcu9).
+- UGC wins on psychology: open with the reaction you want others to have, film casually, cut in product b-roll (DZH29Ykspef).
+- Patterns: many near-identical "Claude plus Arcads makes UGC ads" tutorials with huge comment counts from keyword CTAs (UGC, ADS, FORMAT, FUNNEL); comment counts far above likes (DI1DCchpHGs, DXcEtlBimKF); ad-format menus and tier lists; Hinglish skits with worked rupee numbers; "top X%" ladders and negative-framed D2C hooks; creator UGC portfolio samples with no lesson.
+- Worth a closer look: DaBcRskz6_2, Debvus9zbx3, DeXnbhxurWk, DfkgBojhRu0, DgAMb4DTdI5.
