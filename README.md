@@ -127,3 +127,8 @@ xychart-beta
   [`curriculum/README.md`](curriculum/README.md).
 - **Source media is not in this repository.** The frames, captions and transcripts of the videos studied are kept privately; the
   ledger here holds our own notes on them, with each creator credited by handle.
+
+## Licence
+
+[MIT](LICENSE). The licence covers this repository's own code and writing. Creators named in `curriculum/` own their original
+videos and posts; the notes here are commentary on them.

@@ -9,5 +9,7 @@
     "hooks",
     "higgsfield",
     "video"
-  ]
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/Ekveer-Sahoo/marketing-god"
 }
