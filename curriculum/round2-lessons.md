@@ -214,3 +214,20 @@ Claims from creators about platforms and statistics are unverified.
 - Comment-keyword to DM to cheap front-end to upsell chain, with step-by-step numbers (Dfj_pbCN8bF).
 - Patterns: public-stunt case studies ending in an engagement question (KitKat, billboard glue, ice cube, reverse graffiti); "strong brand versus weak brand" contrast lists; funnel and VSL explainers repeated by many small accounts; credibility-first hooks ("scaled from $30M to $150M"); nearly every funnel and tool reel closes with "comment [keyword]" to get a guide, and the biggest comment counts (11k-29k) come from that mechanic.
 - Worth a closer look: DbGIXhHBEhV, DeYR4__TVQD, DXKYO23jWUt, DWgjjvLDXa-, DeFq8XjuBp2.
+
+## Batch G (hashtag videos, 70 studied, 15 skipped)
+- Story loop: stakes (someone to root for, something at risk, why now), a big question, an unexpected twist, then a re-hook that opens the next question (DfK4mPfNNPC).
+- Script template: hook, a 2-3 sentence "lock-in zone", body blocks each followed by a rehook, optional close, then a CTA matched to a lead magnet (DcqiQesO_R9).
+- Van Westendorp price test: ask four questions (too cheap to trust, bargain, getting expensive, too expensive) and price where the curves overlap, instead of asking "what would you pay?" (DE-RABNRtfB).
+- Trade every discount: ask for a longer term, more volume, or a review or introduction in return (DfgYbAtjf1t).
+- Itemised quotes make buyers audit each line; send three real options with premium first and only options you would gladly do (De3FPXATpIV).
+- Hidden second bill (delivery, travel, advance) is where buyers ghost; fold extras into one package price or advertise "free delivery" (DfcbQtVSNqa, DfZ5nMHSZNr).
+- Price writing: drop the comma, currency sign and .00 so the price is shorter (DekJrjRIp7d); put the old price left and the sale price right (DfIUVeKI3wz); use 9-endings for practical buys, round numbers for gifts and trips (DfU8pgogZbP).
+- Simulate 100 buyers with an AI, each with a budget and reason to refuse, to surface objections before launch; the coffee-shop demo went from 14 to 53 buyers after three changes (accuracy unverified) (Dfrymp_q6Rr, DfgZkOaNXiI).
+- Inoculation ad: name the cheaper rival's weakness before they see it (half-price candles use paraffin), instead of cutting your price (Dfo3IBkNHky).
+- Decoy caution: the famous test reportedly held in only 11 of 91 replications (claim, unverified), so A/B your tiers and say which plan fits which buyer (Dfw1o_cHHUS).
+- Landing page order: hero (result without the feared thing), proof, problem with its cost, solution, 5-8 features each with a benefit and visual, 3-4 steps, FAQ, CTA (Dcly790oumZ).
+- Smart landing page: give ad visitors an instant quiz result or score in exchange for their details (DSqVVMYEi8t). Local-service fixes: sticky phone number, one CTA, visible reviews, named service areas (DayGxdNNVQA).
+- Accent rule: one small opposite-temperature accent (warm page, cool accent), and less than you think (DfzqwB3y0vS, Df2ibEEx8TL). Strip the "AI slop" tells (gradients, hype words, fake stat strips) (DgD2xr5zPvE).
+- Patterns: the batch is dominated by pricing psychology (decoy, anchoring, bundling, 3 tiers) and landing page design, with many near-identical decoy scripts (DO8d-8lj_R5, DVqvkZOky5Z); formats are voiceover case studies in numbered series (@decoyreport, @dukaandidi fictional Hinglish stories with a named psychologist), fix-along screen recordings and count-the-flaws lists. CTAs are comment-a-keyword (COFFEE, SKILL, SLOP, HERO, accent) for a free skill, prompt or checklist, with comment counts far above likes on tool giveaways (DfgZkOaNXiI, Dfrymp_q6Rr). Hooks are "Do not start a business without this", a quiz ("$34 or $39?") or a contrast pair ("$200 client vs $4000 client").
+- Worth a closer look: DE-RABNRtfB, Dfw1o_cHHUS, DcqiQesO_R9, Dfrymp_q6Rr, DSqVVMYEi8t.
