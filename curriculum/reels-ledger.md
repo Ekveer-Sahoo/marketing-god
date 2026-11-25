@@ -463,3 +463,73 @@ pick up and to post online. Take: Purple Cow applied to a flyer; offline → QR 
 custom mirror), Df1kBcahH8E @mafagraphs (26.6k, rose fabric bookmark, sells STL).
 
 **Not accessible (login-gated, need cookies):** DfsB0jFBluv @ksltos, DZck67KTq2P @gydebylalit. **Restricted audience:** DeSE_bEi9P3.
+
+---
+
+# Round 2: top reels from creators in round 1, plus topic and hashtag search (from 2026-11-25)
+
+Compact format from here on: `code · @creator · likes / comments` then format, hook and the take.
+
+## Batch 10 (most-viewed reels from round-1 creators)
+
+**Ddii_P4BHns · @hormozi · 148k / 1.5k** — live Q&A clip: salon owner whose trained stylists leave with their clients. Answer: build 6-12
+career tiers so there is always a next step. Caption: four ways to change behaviour (add a reward, remove a chore to get action; add a
+chore, remove a reward to stop it). Take: audience-question format; the question is the hook because viewers have it too.
+**DYGVdp0u-OI · @hormozi · 124k / 1.1k** — Q&A: "when do I sell my company?" He attacks the premise ("you're going to work again").
+Take: contradicting the asker in the first ten seconds holds attention; caption carries a quotable line.
+**DXJzl3jySxZ · @hormozi · 63k / 626** — Q&A: play-park owner choosing between two revenue lines; walks through LTV:CAC for each
+(LTV $450 on $15 acquisition = 30:1). Take: decide with unit economics per channel, live on a whiteboard; numbers on screen.
+**Df0h4zPx367 · @ameliagonzamonte · 103k / 185** — "This video proves that labor illusion sells." A drink seller shows the full recipe:
+(1) asking "is it worth it, or make it at home?" opens a loop and lets the viewer judge; (2) showing the effort raises perceived value.
+Take: show the work; ask the viewer to decide instead of telling them it's worth it.
+**DfYCgYWM9AS · @ameliagonzamonte · 8.3k / 32** — "This video proves that contrast sells": a pressure-washing clip got 17M by showing
+treated beside untreated in the same frame. Take: side-by-side beats a plain before/after, for views and for perceived value.
+**DgI92arRf5m · @ameliagonzamonte · 2.1k / 49** — Instagram "Content Protection" flags copied scripts and visuals; her answer: tie every
+post to what makes you different, build your own structure, use your own stories. (Platform claim unverified.)
+**CpgURUnrKyx · @brock11johnson · 8.7k / 26.4k** — confession hook: "I've failed my team, I've failed myself, and I've failed you."
+then pivots to an offer; comment GROW. Take: self-blame opener + comment keyword produced 3x more comments than likes.
+**Df10GneFdYZ · @brock11johnson · 5.0k / 2.7k** — diagnosis list: no views = bad hook; no likes = not relevant; no comments = no
+curiosity; no shares = not relatable; no saves = no value; no followers = profile not optimised. Take: a metric-to-cause table we can use.
+**DIWMtUqpsa8 · @brock11johnson · 5.5k / 5.8k** — 12 s visual with "comment HOOK for 25 hook ideas". Take: tiny reel, pure lead magnet.
+**DdLBM5LIxZM · @aashrayy0 · 7.2k / 21.9k · Hindi** — "You post consistently but Instagram doesn't know who to show it to": have an AI
+write the caption with search keywords from your script. Take: caption SEO; freebie is the prompt.
+**DfWhg9oo_ze · @aashrayy0 · 12.4k / 195** — five content niches where brands pay most in India: gaming, health and fitness, beauty and
+skincare, tech and AI, finance (his ranking). Take: "episode 1 of…" series opener.
+**De3PPNaoAHx · @aashrayy0 · 949 / 58** — four settings before posting: account status green, sharing and reuse on, highest-quality
+upload, AI translation on. (Repeats @martinwang.mp4; adds translation.)
+**DXJ2mh1gdjY · @growthwithhardik · 8.8k / 7.5k · Hindi** — "Instagram will now pay you like YouTube" walkthrough. Take: money + "even with
+zero followers" hook. Claim unverified.
+**DXO3DXUAStA · @growthwithhardik · 1.8k / 25 · Hindi** — how-to trick (highlight without posting a story). Take: small utility tips travel.
+**DHDsbD9ztaI · @marketing.yatra · 413k / 506 · Hindi** — bakery loyalty card: one slice = one stamp, ten stamps = a free half-kilo cake;
+asks what psychology makes it work. Take: stamp cards work through progress toward a goal; "Part 01/10" series framing.
+**DHI37tivWZn · @marketing.yatra · 305k / 158 · Hindi** — a Coke vending machine sells 100 cans a day; put a Pepsi machine beside it and
+total sales rise, because the choice changes from "buy or not" to "which one". Take: a second option reframes the decision. (Illustrative story, not sourced.)
+**DfXTf1VT2Tx · @marketing.yatra · 11.1k / 7 · Hindi** — Amul sells a cheaper butter-like spread to street vendors under another name with
+no Amul branding. Take: separate brands per price point protect the core brand.
+**Skipped (not marketing lessons):** Df5Qt45xx89, Df90ksjOPCo, DgBP-9RRfPr (@laraacostar personal/trend clips).
+
+## Batch 11
+
+**DfmcBbgqvgj · @dukaandidi · 211k / 218 · Hindi** — "The work Rekha was fastest at was eating her income." A home tailor fills her day with
+small ₹-jobs and loses the wedding-blouse customer; a day of small jobs earns ₹800, four blouses earn ₹1,600. Uses the "best lawyer types
+faster than her secretary" example. Take: opportunity cost; being good at a task isn't a reason to sell it. Story → sum → known analogy → moral.
+**DfZFM3Bi1GX · @dukaandidi · 217k / 141 · Hindi** — tiffin service drops from 50 to 20 customers though everyone praises the food. The
+owner logs every cancellation date: most leave in weeks 3-4. Cause: boredom with a fixed menu. Fix: a four-week rotating menu and a
+Saturday special. Take: track *when* customers leave before guessing why; novelty wears off, so build variety into repeat products.
+**Dfi56URi7KU · @dukaandidi · 215k / 234 · Hindi** — café owner wants a "max 1 hour" board for laptop customers (₹160 coffee, four hours).
+A week of hourly head-counts shows the café is half empty 11-4 anyway; laptop users were filling dead tables. Take: measure before you
+make a rule that could cost reviews. Ends by asking the viewer for their busiest hour (easy comment).
+**De6iq0xvIkk · @byjoeym · 3.8k / 2.2k** — "10/10 skills to build disgustingly good taste": consume on purpose, learn the makers, infer
+meaning, extract the idea, recreate through your own lens, repeat. Take: taste as a trainable loop.
+**DfHDJ3jJ-yn · @byjoeym · 1.8k / 6** — six niche brand aesthetics to reference (cassette futurism, x-ray transparency, wayfinding,
+"glacial decadence"…). Take: name an aesthetic and its references before briefing visuals.
+**DcanGeRBoKG · @scalewithpb · 20.4k / 18.8k** — 11 s: "Type this to get this" ×5, comment for 100+. Take: pure pattern demo + keyword;
+comments nearly equal likes.
+**DgE6f2khVDz · @scalewithpb · 60.8k / 1.1k** and **Dfo2D5rhfLb · 46.6k / 409** — "I reverse engineered [famous app]": claims about what
+the app tracks. Take: investigation format, a named target, a specific odd number (244 apps, 642 signals), "here's the scarier part" as the
+mid-video re-hook. Claims unverified; don't repeat them as fact.
+**DZ95irCT4Bn · @prime.brains · 425k / 1.1k** — "Stop calling your product premium." Empty words (premium, luxury, high quality) hide
+missing proof. The classic car line about the clock being the loudest sound at 60 mph is the model. Rules: not "fast", say the hours it
+saves; not "trusted", say who trusted it; not "durable", show what it survived. Take: this is our "specific beats clever" rule, with the
+best one-line statement of it so far: people believe sharper proof, not bigger words.
+**Skipped:** Dfp30qZttLV (@yesfazal, AI entertainment clip).
