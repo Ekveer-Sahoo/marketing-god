@@ -55,3 +55,69 @@ Claims from creators about platforms and statistics are unverified.
 - Bio ladder: outcome, trust, contact, CTA, link, clear face photo (claim, unverified) (DTb1rh3kZag).
 - Patterns: heavy comment-keyword CTAs ("comment SONGS", "invite", "reel") with comment counts in the thousands; numbered series (Cult Brand Psychology episodes, Breaking Design Myths); tier-list rankings that invite arguments; "10 out of 10" quote and example lists; psychology-effect explainers (compromise, anchoring, zero price, enemy, expectation) that mostly repeat decoy and labor-illusion ideas; personal-brand plans (3.5 months, 90 days) with big comment counts; song-list lead magnets; Hinglish explainers with rupee numbers.
 - Worth a closer look: DfFUHjDqewW (frame-by-frame video analysis skill), DdO8zdJTTLq, Dc_NbmBSxH0, Dem1FY6vr5Z, DfWHPChtG_d.
+
+## Carousel captions (330 posts read, 137 skipped as teasers or promotion)
+
+### Set 1
+# Lessons from Posts 1 (carousel captions)
+
+- Cover all three customer problems (practical, emotional, deeper belief); solving only the obvious one leaves price as the deciding factor. [P:DZ27R2liPYU]
+- Sell the transformation or outcome, not features: planner = feeling organized, logo = professional look. [P:Dc_l9TTEvkv] [P:Df2NjqCm-tr]
+- Link the product to survival (save money, save time, better health) and name the current problem it solves (StoryBrand rule 2). [P:Decy8mxlZBr]
+- Optimize for relevance, not reach: 1,000 views from the ideal audience beats 10,000 random ones. [P:DeeOhiCicYK]
+- Funnel mix for founder content: about 60% awareness, 30% trust, 10% hard conversion (claim, unverified). [P:DeMUP5QH7qy]
+- Viral-carousel checklist: 1-second hook, curiosity gap, save-worthy value, shareable identity, mid-way retention break, one comment trigger. [P:Ddj6Ho2gX_A]
+- After the hook add a re-hook (curiosity, tension, value, visual, story); pick 2-3 per Reel. [P:DeQp7NPE63j]
+- Six storytelling levels: facts, curiosity, stakes, tension, clarity, style; use as a rewrite ladder. [P:Dct6uq7gPv3]
+- Reframe wording: premium not expensive, free bonus not discount, agreement not contract, pre-loved not used. [P:DfUJfnpn0a2]
+- Replace industry clichés in copy and crowdsource them from followers for a Part 2. [P:DHJUanxRoQ6]
+- Static ad angles to test: specific pain points, money-based, "don't buy" ads, native text, before/after. [P:DfELKB_oKlt]
+- Meta ad beginners: Sales/Leads objective, about 25/day, broad audience, vertical video with 3-second hook, leave alone 3-4 days, refresh creative every 2-3 weeks (claims, unverified). [P:DbI2ye-jYrg]
+- Low-quality Meta leads usually come from setup: volume optimization, easy forms, wrong offer, no quality signals, cold audiences. [P:De8e1pSATJc]
+- Meta creates demand, Google captures existing demand; match the platform to funnel stage. [P:DcDxqotjfNF]
+- Paste brand context once above every AI prompt; keep client data out and fact-check. [P:DezpFVlH2ge]
+- Patterns: openers are a bold claim, myth-bust or "X vs Y" title; most captions end with Save/Share/Follow plus a comment-keyword gate (LADDER, TERMS, NOTES, STATIC, STEAL, ROAS) that promises a DM with a PDF or swipe file; hashtags or keyword lists are stuffed after the text, often as plain words; many captions are only a headline, so the lesson is hidden in slides; the highest comment counts come from keyword gates and giveaway-style asks (4,159 for "ROAS", 2,181 for "LEARN", 646 for "STATIC"), not from content quality; several accounts repost identical captions.
+- Worth reading the slides: P:Dc75dAOoDXW, P:DbS3MduDVJ3, P:DdS9AFvgfSK, P:Df4qNXSI0Ju, P:DeQp7NPE63j, P:DdOnrdykwyH.
+
+### Set 2
+## Lessons from Posts 2
+
+- Word swaps beat discounts: $999 for $1,000, "investment" for "cost", "Only 3 left" for "Buy now", same product and price. [P:DdduX7MkTKX]
+- Diagnose Meta ads by symptom: high CPM, fix audience/creative; low CTR, weak hook; high CPC, costly clicks; clicks but no sales, landing page or funnel. [P:DdL38iGEoB5]
+- Clicks but no purchases: check pixel/CAPI tracking, ad-to-page match, mobile speed, purchase objective, surprise shipping at checkout, and trust signals before raising budget. [P:Df0-AD_DD6q]
+- Build creatives on Driver (why they buy), Trigger (when the problem hits), Barrier (what stops them); test 2-3 formats before killing an angle (claim, unverified platform specifics). [P:DfgiBcmAXSg]
+- Match Meta creative to funnel stage: top = founder/UGC/native statics, middle = comment replies and testimonial mashups, bottom = offer and product statics. [P:DfoQWq8Aaku]
+- Scale a winner gradually: raise budget slowly, test new audiences, make variations of the creative, watch frequency and refresh. [P:DewTeYSifDR]
+- Treat the funnel as removing one uncertainty at a time (exists, relevant, trustworthy, better, worth it); don't judge channels only by last-click. [P:DdRdiuYDGUX]
+- Brand gives a reason to remember, performance a reason to act now; one central idea powers both campaigns. [P:DeCZOzdjKQP]
+- Performance marketing flow: Strategy, Setup, Tracking, Testing, Data, Budget, Reporting, Scale; tracking matters more than scaling. [P:DS1g43ZCKsP]
+- Write ads around a buyer's existing want (time, pain relief, status, money) and audit which trigger your ad uses; stack several. [P:DacHp95AUXX]
+- Pricing frames: show the high anchor first (₹8,000 then ₹4,999), phrase positively (90% fat-free), use a free-shipping threshold and crossed-out prices. [P:Dd0MW5zGZ4G]
+- One idea per post, write as you speak, minimise decoding effort. [P:DbDelC7kRsn]
+- Honest sale design: say why it's cheaper (imperfect stock, short-dated with date shown, goodbye discount, early access for repeat buyers). [P:DfhUyZqlCIM]
+- Ad copy formulas: PAS for pain-aware audiences, AIDA general, BAB for transformation stories. [P:DJoe-j0SmFe]
+- Content mix by job: reels reach, stories relate, carousels build authority; and rework one topic into many formats. [P:DgAPdFFkYcA, P:Df680fWn46Z]
+- Patterns: openers are bold contrarian lines ("Stop selling your product", "Harsh truth") or "N things" lists; most captions are thin and defer substance to slides. CTAs are comment-a-keyword for a DM (FUNNEL, TOPIC, PLAN, CONCEPTS) and these draw by far the highest comment counts (hundreds to 1,700), unrelated to caption quality; likes are driven by relatable psychology lists. Many are stuffed with hashtag or keyword blocks in brackets, and many are agency or course promotion with no technique. Repeated posts (same caption, two codes) occur.
+- Worth reading the slides: P:DfgiBcmAXSg, P:DdRdiuYDGUX, P:DfoQWq8Aaku, P:DdL38iGEoB5, P:Df1M-y-lDd2, P:DacHp95AUXX.
+
+### Set 3
+# Lessons from Posts 3
+
+- Cost per purchase = CPM / (1,000 x CTR x conversion rate); judge CPM against your own last 30 days, and budget festive spikes (~2-2.5x, own estimate) in advance. [P:DfXlaSZH-rB]
+- Raise AOV before peak season instead of buying more traffic; flat AOV just brings more small orders. [P:DeglTCAD7KI]
+- Pricing: aim for 60%+ margin before ads, put a premium decoy beside the bestseller, offer trials, run offers on slow days. [P:DfUPyS1E1XX]
+- UGC ad structure: hook 0-3s (not ad-like), problem 3-8s (customer's words), proof 8-20s, push last 5s (one reason to buy now). [P:Df2GGZonBSb]
+- AI UGC feels real when you decide the character's situation (late, skipped half the routine), not by asking for "realistic". [P:Dct6GqRFAFh]
+- Lock the proven ad body and swap only the opening seconds to test ~20 hooks; regenerate only audio per language. [P:DdW-ft4jVJF]
+- Build reusable brand reference files once so every new ad is a variation, not a restart; keep one memorable character. [P:Dcg6foIjvCL]
+- Triple Hook: set context immediately (audio, visual, text aligned), then add a curiosity "lean". [P:DfQ5RxHjg1S]
+- Rotate curiosity, authority and outcome hooks rather than one type. [P:DU0MVWRkjzU]
+- Hook test: "why would someone need to watch the next 5 seconds?"; attention gets the view, relevance gets watch time. [P:DcX5GK2ASSS]
+- Native-looking statics (unpolished before/after, Notes checklist, Post-it persona) beat polished ads; test one concept daily. [P:DcvBYdwjTT4]
+- Match creative to buyer intent: educate newcomers, prove to comparers, urge cart abandoners. [P:DYFPhCwAaJI]
+- Treat seeding/sampling like media buying, with measurement. [P:DTs-0PlDh4x]
+- Sell identity not ingredients; use real-bathroom visuals and four content pillars. [P:DalXehfAcdp]
+- Wellness launch sequence: soft launch, founder story, ~50 influencers, paid ads after week 4, Amazon last. [P:DctZRuyCBfI]
+- Patterns: Openers are a contrarian claim or shock stat ("90% fail"), an "Your X isn't bad, your Y is" reframe, or a fake-casual scene. The CTA mechanic is nearly universal: "Comment WORD and I'll DM the guide/PDF/prompts", which drives huge comment counts (AI, Claude and hook posts reach thousands) while the caption carries little content. Many captions are pure teasers ("save this", "swipe") with the lesson only on the slides. Hook lists (30-100 items) dominate and repeat across creators. Hashtag/keyword blocks are stuffed at the end. Stats and income claims are unsourced. Case-study posts are mostly agency promotion; the few with specifics (LEGO, Vaseline, skincare) are the useful ones.
+- Worth reading the slides: P:DctZRuyCBfI, P:DcAttBYFCs9, P:DfXlaSZH-rB, P:DfUPyS1E1XX, P:DfQ5RxHjg1S, P:DS5CahSDHhB
+
