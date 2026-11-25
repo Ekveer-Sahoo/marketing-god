@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+
+
+
+# Third-party media and study material: kept locally, never published
+curriculum/sources/
+lab/video-tests/**/*.mp4
+lab/video-tests/**/*.jpg

@@ -1,0 +1,13 @@
+{
+  "name": "marketing-god",
+  "version": "0.2.0",
+  "description": "Marketing pipeline as four chained skills: audience research, hooks, ad matrix and video ads. Evidence-tagged research, scored hooks, true-claims rules and a cost gate before any AI generation.",
+  "keywords": [
+    "marketing",
+    "ads",
+    "copywriting",
+    "hooks",
+    "higgsfield",
+    "video"
+  ]
+}
