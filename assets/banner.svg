@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="marketing-god: audience research, hooks, ad matrix, video ads">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14121f"/>
+      <stop offset="1" stop-color="#231a3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8a4c"/>
+      <stop offset="1" stop-color="#ff4d8d"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#8f86b8"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect x="60" y="58" width="64" height="6" rx="3" fill="url(#accent)"/>
+  <text x="60" y="128" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" fill="#ffffff">marketing-god</text>
+  <text x="60" y="176" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" fill="#c9c3e6">A Claude Code plugin that takes a product from “who buys this?” to tested ads and video.</text>
+
+  <g font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+    <g>
+      <rect x="60" y="232" width="240" height="128" rx="16" fill="#1d1a2e" stroke="#3a3360" stroke-width="2"/>
+      <text x="84" y="270" font-size="15" font-weight="700" fill="#ff8a4c">STEP 1</text>
+      <text x="84" y="302" font-size="24" font-weight="700" fill="#ffffff">audience-research</text>
+      <text x="84" y="332" font-size="16" fill="#a9a2cc">Who buys, and why not</text>
+    </g>
+    <line x1="306" y1="296" x2="336" y2="296" stroke="#8f86b8" stroke-width="3" marker-end="url(#arrow)"/>
+    <g>
+      <rect x="342" y="232" width="240" height="128" rx="16" fill="#1d1a2e" stroke="#3a3360" stroke-width="2"/>
+      <text x="366" y="270" font-size="15" font-weight="700" fill="#ff7461">STEP 2</text>
+      <text x="366" y="302" font-size="24" font-weight="700" fill="#ffffff">hooks</text>
+      <text x="366" y="332" font-size="16" fill="#a9a2cc">The first three seconds</text>
+    </g>
+    <line x1="588" y1="296" x2="618" y2="296" stroke="#8f86b8" stroke-width="3" marker-end="url(#arrow)"/>
+    <g>
+      <rect x="624" y="232" width="240" height="128" rx="16" fill="#1d1a2e" stroke="#3a3360" stroke-width="2"/>
+      <text x="648" y="270" font-size="15" font-weight="700" fill="#ff5f78">STEP 3</text>
+      <text x="648" y="302" font-size="24" font-weight="700" fill="#ffffff">ad-matrix</text>
+      <text x="648" y="332" font-size="16" fill="#a9a2cc">A batch built to be tested</text>
+    </g>
+    <line x1="870" y1="296" x2="900" y2="296" stroke="#8f86b8" stroke-width="3" marker-end="url(#arrow)"/>
+    <g>
+      <rect x="906" y="232" width="234" height="128" rx="16" fill="#1d1a2e" stroke="#3a3360" stroke-width="2"/>
+      <text x="930" y="270" font-size="15" font-weight="700" fill="#ff4d8d">STEP 4</text>
+      <text x="930" y="302" font-size="24" font-weight="700" fill="#ffffff">video-ads</text>
+      <text x="930" y="332" font-size="16" fill="#a9a2cc">Real for proof, AI for attention</text>
+    </g>
+  </g>
+</svg>

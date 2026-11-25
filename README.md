@@ -1,40 +1,79 @@
-# marketing-god
+<p align="center">
+  <img src="assets/banner.svg" alt="marketing-god: audience research, hooks, ad matrix, video ads" width="100%">
+</p>
 
-A Claude Code plugin that takes a product from "who buys this?" to a tested batch of ads and a short video, with every step written
-down as an exact process. Four skills chain together, and each one refuses to make things up: research lines are tagged with where they
-came from, hooks are scored, ad claims must be true, and nothing is generated with AI until a quoted cost is approved.
+<p align="center">
+  <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-ff8a4c"></a>
+  <img alt="Version 0.2.0" src="https://img.shields.io/badge/version-0.2.0-ff6a6a">
+  <img alt="Claude Code plugin" src="https://img.shields.io/badge/Claude%20Code-plugin-ff4d8d">
+  <img alt="Status: early" src="https://img.shields.io/badge/status-early-8f86b8">
+</p>
 
-> **Status: early.** The skills were built from about 85 marketing reels and blind-tested on invented products. They have run on one real
-> product (a plan and a reel script) and generated one draft clip. Nothing here has been validated against real ad results yet.
-> See [Status and limits](#status-and-limits).
+<p align="center">
+  <a href="#install">Install</a> ·
+  <a href="#see-it-work">See it work</a> ·
+  <a href="#the-four-skills">Skills</a> ·
+  <a href="docs/PROCESS.md">Process guide</a> ·
+  <a href="examples/README.md">Examples</a> ·
+  <a href="#status-and-limits">Status</a>
+</p>
 
-## The pipeline
+---
 
-```mermaid
-flowchart LR
-    P([Product + any customer messages]) --> A[audience-research]
-    A -->|audience.md| H[hooks]
-    A -->|audience.md| M[ad-matrix]
-    H -->|scored hooks| M
-    H -->|one hook| V[video-ads]
-    M -->|ad-matrix.csv + ad-brief.md| V
-    V -->|beat sheet, shot list, clips| OUT([Reel or ad])
-    OUT -->|real results| L[(lab)]
-    L -->|rules that survived| A
-    L --> H
-    L --> M
-    L --> V
-```
+Four skills that chain together, each written as an exact process. They are built to **not make things up**: research is tagged with
+where it came from, hooks are scored, ad claims must be true, and nothing is generated with AI until you approve a quoted cost.
 
-| Skill | What it does | What you get |
-|---|---|---|
-| [`audience-research`](skills/audience-research/SKILL.md) | Sorts real customer messages and reviews into problems, objections, desires and exact words, each tagged by source | `audience.md` |
-| [`hooks`](skills/hooks/SKILL.md) | Writes and scores the first line and first three seconds; rates and fixes hooks you bring | Top 5 hooks with visual, text, spoken line and score |
-| [`ad-matrix`](skills/ad-matrix/SKILL.md) | Plans ads as hooks × bodies × calls to action across different formats, sized to what you can make and afford to test | `ad-matrix.csv`, `ad-brief.md`, a test plan |
-| [`video-ads`](skills/video-ads/SKILL.md) | Turns a hook into a beat sheet, splits real footage from AI-generated parts, routes to Higgsfield, gates on cost | Beat sheet, shot list, reviewed clips |
+## See it work
 
-The full step-by-step process for each skill, with flowcharts, is in **[docs/PROCESS.md](docs/PROCESS.md)**.
-Worked examples are in **[examples/](examples/README.md)**.
+You bring a hook. The `hooks` skill scores it, says what's wrong, and rewrites it.
+
+<table>
+<tr>
+<th width="50%">Before</th>
+<th width="50%">After</th>
+</tr>
+<tr>
+<td valign="top">
+
+> "Check out our amazing new custom keychains, they are a total game-changer for gifting!"
+
+**3 / 12**
+
+- About the seller, not the buyer
+- Any competitor could post it unchanged
+- "Amazing" and "game-changer" say nothing
+- Nothing left to find out
+
+</td>
+<td valign="top">
+
+> **Visual:** a plastic keychain drops into the plating tank; the same piece lifts out copper.<br>
+> **Text:** Plastic in. Real copper finish out.<br>
+> **Says:** "This went into the tank as plastic. This is the same piece coming out."
+
+**10 / 12**
+
+- The change happens in frame one, sound off
+- Only this product could say it
+- You stay to see how
+
+</td>
+</tr>
+</table>
+
+More outputs, including an audience file, an eight-ad matrix and a reel plan: **[examples/](examples/README.md)**.
+
+## The four skills
+
+| | Skill | You give it | You get |
+|:-:|---|---|---|
+| 🔎 | **[audience-research](skills/audience-research/SKILL.md)** | The product and any real customer messages | `audience.md`: problems, objections, desires and exact words, each tagged by source |
+| 🎣 | **[hooks](skills/hooks/SKILL.md)** | A product, or a hook to rate | Top 5 hooks with visual, on-screen text, spoken line and a score out of 12 |
+| 🧮 | **[ad-matrix](skills/ad-matrix/SKILL.md)** | Budget, footage, how many ads you can make | `ad-matrix.csv` and `ad-brief.md`: hooks × bodies × CTAs, a break-even and a cut rule |
+| 🎬 | **[video-ads](skills/video-ads/SKILL.md)** | A hook and the footage you have | A beat sheet and shot list; AI clips only after a cost quote and your yes |
+
+Each skill reads what the one before it wrote. The step-by-step process for each, with flowcharts, is in
+**[docs/PROCESS.md](docs/PROCESS.md)**.
 
 ## Install
 
@@ -45,90 +84,85 @@ In Claude Code:
 /plugin install marketing-god@marketing-god
 ```
 
-Or, for local development, start Claude Code with the folder as a plugin directory:
+For local development:
 
 ```bash
 claude --plugin-dir /path/to/marketing-god
 ```
 
-`video-ads` uses the Higgsfield connector for generation. Without it, the skill still produces the beat sheet, shot list and prompts.
+`video-ads` uses the Higgsfield connector to generate clips. Without it you still get the beat sheet, shot list and prompts.
 
-## Quick start
+## Use it
 
 Ask in plain words; the skills trigger on the request.
 
-| You say | Skill |
+| Say this | Runs |
 |---|---|
 | "Do audience research for my product. Here are some DMs I've had: …" | audience-research |
 | "Give me hooks for an Instagram reel for …" | hooks |
-| "Rate this hook: '…'" | hooks (score mode) |
+| "Rate this hook: '…'" | hooks |
 | "Make me ads for … Budget ₹500 a day, I can make 8 this week." | ad-matrix |
 | "Make the reel for … using this hook." | video-ads |
 
-## The rules every skill shares
+## The rules every skill follows
 
-```mermaid
-flowchart TD
-    C{Is this a claim the viewer<br/>is asked to believe?} -->|Yes| R[Must be real: footage, photo,<br/>true text, real customer words]
-    C -->|No| G[May be generated or stylised]
-    R --> K{Do we know it's true?}
-    K -->|In the Unknown list| X[Don't say it. Use a placeholder<br/>and ask the seller.]
-    K -->|Yes| OK[Use it]
-    G --> Q{Costs credits?}
-    Q -->|Yes| Y[Quote first. Generate only<br/>after an explicit yes.]
-    Q -->|No| OK
-```
+| Rule | What it means in practice |
+|---|---|
+| **Evidence is graded** | Your customers' words `[own]` beat public reviews `[public]`, which beat interpretation `[inferred]`, which beats guesses `[assumed]`. Every research line carries its tag. |
+| **Real for proof, generated for attention** | Anything the viewer is asked to believe (the product, a result, a customer, how it's made) must be real. AI is for openers, b-roll and transitions. |
+| **No invented proof** | No fake reviews, numbers, testimonials, customers or process footage. Unknown facts become placeholders and questions, not claims. |
+| **Cost gate** | Checking a balance and getting a quote are free. Generating needs your explicit yes to a quoted cost, one draft first. |
+| **Write to the buyer** | When the buyer and the user differ (parent and child, gift giver and receiver), the copy addresses the buyer. |
+| **Capacity and budget are limits** | A plan you can't produce or afford to test is worth nothing, so plans are sized to both. |
+| **Other people's rights** | No third-party characters, logos or likenesses. Customer quotes and faces need permission. |
 
-- **Evidence is graded.** `[own]` customer words beat `[public]` reviews, which beat `[inferred]`, which beat `[assumed]`.
-- **No invented proof.** No fake reviews, numbers, testimonials, customers or process footage.
-- **Write to the buyer** when buyer and user differ.
-- **Capacity and budget are hard limits.** A plan you can't produce or afford to test is worth nothing.
-- **Other people's rights.** No third-party characters, logos or likenesses; customer quotes and faces need permission.
+## How it was built
 
-## Repository layout
+| 122 | 4 | 5 | 37 |
+|:-:|:-:|:-:|:-:|
+| short videos and posts studied | skills written | blind tests run | gaps found and fixed |
+
+1. **Study.** Marketing reels were transcribed and reviewed frame by frame. Notes, with each creator credited: [`curriculum/`](curriculum/README.md).
+2. **Encode.** Lessons that were specific and repeatable became skill instructions.
+3. **Blind-test.** A fresh agent got only the skill files and a sample product, then critiqued the skill. Log: [`lab/skill-tests.md`](lab/skill-tests.md).
+4. **Lab** (not yet run at scale). Real products, scored against a rubric; any error seen on three or more products becomes a rule. Process: [`lab/README.md`](lab/README.md).
+
+## Status and limits
+
+This is early work. Read this before relying on it.
+
+- **Not validated on results.** No ad built with these skills has run yet, so nothing proves the hook scores or test plans predict performance.
+- **Platform advice is practitioner opinion.** Claims about ad delivery, how many ads to run and when to cut come from creators' reels,
+  not platform documentation. The skills label them as rules of thumb.
+- **Campaign setup is out of scope.** `ad-matrix` plans creatives and the test; it does not configure an ad account.
+- **One generated clip so far**, and it was unusable. [Why](lab/video-tests/0001-drone-draft/notes.md).
+- **The test products are invented.** One real product has a plan and a reel script: [`lab/products/`](lab/products/).
+
+<details>
+<summary><b>Repository layout</b></summary>
 
 ```
 .claude-plugin/     plugin and marketplace manifests
 skills/             the four skills, each with SKILL.md and references/
 docs/PROCESS.md     exact processes and flowcharts
 examples/           worked examples from test runs and the first real product
-curriculum/         study notes the skills were built from (reels ledger + five topic files)
+curriculum/         study notes the skills were built from
 lab/                rubric, error taxonomy, skill-test log, product files, video tests
 tools/              reel.py and digest.py for studying short videos in bulk
 ```
 
-## How it was built
+</details>
 
-1. **Study.** 122 short videos and posts were collected; 105 videos were transcribed and reviewed frame by frame, 14 image posts read.
-   Notes are in [`curriculum/`](curriculum/README.md).
-2. **Encode.** Lessons that were specific and repeatable became skill instructions.
-3. **Blind-test.** A fresh agent was given only the skill files and a sample product, then asked to critique the skill.
-   Five tests found 37 gaps; all were fixed. Log: [`lab/skill-tests.md`](lab/skill-tests.md).
-4. **Lab** (not started at scale). Run on real products, score against [`lab/rubric.md`](lab/rubric.md), tag errors, promote any error
-   seen on 3+ products to a rule. Process: [`lab/README.md`](lab/README.md).
+<details>
+<summary><b>What's missing from the source material</b></summary>
 
-```mermaid
-xychart-beta
-    title "Gaps found per blind test (all fixed)"
-    x-axis ["1 hooks", "2 audience", "3 chained", "4 ad-matrix", "5 video-ads"]
-    y-axis "Gaps" 0 --> 10
-    bar [8, 8, 7, 7, 7]
-```
+Positioning, offer design, awareness levels, email and landing pages are thin; see [`curriculum/README.md`](curriculum/README.md).
+The frames, captions and transcripts of the videos studied are kept privately and are not in this repository; the ledger here holds
+our own notes on them.
 
-## Status and limits
-
-- **Not validated on results.** No ad built with these skills has run, so nothing proves the hook scores or test plans predict performance.
-- **Platform advice is practitioner opinion.** Claims about Meta's delivery, how many ads to run and when to cut come from creators'
-  reels, not platform documentation. The skills label them as rules of thumb.
-- **Campaign setup is out of scope.** `ad-matrix` plans creatives and the test; it does not configure ad accounts.
-- **One generated clip so far**, and it was unusable (a third-party logo became readable). See
-  [`lab/video-tests/0001-drone-draft/notes.md`](lab/video-tests/0001-drone-draft/notes.md).
-- **Thin spots in the source material:** positioning, offer design, awareness levels, email and landing pages are noted as gaps in
-  [`curriculum/README.md`](curriculum/README.md).
-- **Source media is not in this repository.** The frames, captions and transcripts of the videos studied are kept privately; the
-  ledger here holds our own notes on them, with each creator credited by handle.
+</details>
 
 ## Licence
 
-[MIT](LICENSE). The licence covers this repository's own code and writing. Creators named in `curriculum/` own their original
-videos and posts; the notes here are commentary on them.
+[MIT](LICENSE). The licence covers this repository's own code and writing. Creators named in `curriculum/` own their original videos
+and posts; the notes here are commentary on them.
