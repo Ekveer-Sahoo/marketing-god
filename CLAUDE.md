@@ -37,3 +37,10 @@ login-gated reels need the browser. Every reel studied gets a ledger entry; less
 - Skills hold distilled, actionable rules + good/bad examples, not textbook dumps.
 - Video generation uses the Higgsfield MCP; build on the existing `higgsfield-expert` skill, don't duplicate it.
 - Otto integration: TBD (user will explain later).
+
+## Publishing
+- This repository is public. `curriculum/sources/` (downloaded reels, frames, transcripts) and generated media in `lab/video-tests/`
+  are git-ignored on purpose: third-party material and anything with someone else's logo or face stays local.
+- Notes in `curriculum/` are our own summaries with creators credited by handle. Don't paste long verbatim lists, captions or
+  transcripts from a source into tracked files.
+- No personal names, chat links, account emails or local paths in tracked files.
