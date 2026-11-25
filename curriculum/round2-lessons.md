@@ -140,3 +140,22 @@ Claims from creators about platforms and statistics are unverified.
 - UGC wins on psychology: open with the reaction you want others to have, film casually, cut in product b-roll (DZH29Ykspef).
 - Patterns: many near-identical "Claude plus Arcads makes UGC ads" tutorials with huge comment counts from keyword CTAs (UGC, ADS, FORMAT, FUNNEL); comment counts far above likes (DI1DCchpHGs, DXcEtlBimKF); ad-format menus and tier lists; Hinglish skits with worked rupee numbers; "top X%" ladders and negative-framed D2C hooks; creator UGC portfolio samples with no lesson.
 - Worth a closer look: DaBcRskz6_2, Debvus9zbx3, DeXnbhxurWk, DfkgBojhRu0, DgAMb4DTdI5.
+
+
+## Batch D (hashtag videos, 59 studied, 11 skipped)
+- Information-gap hook formula: state what the viewer already believes, say "but", then give what they don't know or contradict it; curiosity needs partial knowledge (Deb7hcGMBnZ).
+- Build the unresolved moment into the ad itself: open an unfinished action (lit fuse), cut to the pitch, never resolve it (DdRbpAFNzPb).
+- Borrow a suspense clip as the first beat (falling pole, swinging axe) and put your own video right after (DfkdfanO2S7).
+- Same hook, different first frame: one page got 522 views on a blank card and 35,000 typed live, so test the opening visual before the wording (Df2CsS-gdYn).
+- A hook's second job is to repel non-buyers; the words in the ad do most of the targeting, and Meta learns from who takes the action (Dfa_Zd2A2Ec).
+- Small-batch ad testing: don't drop 30 ads into one ad set; Meta funds a few early, and one ad set per ad costs about $9,000 a day at a $100 target (Df5WjOEvT5l).
+- Deliberate visual glitch (cracked-screen line, sauce spilling out of the frame) as a pattern interrupt, cheap to copy (DOtEGa0D_2I, Dc1T6h6t11c).
+- Pains-stack structure: outcome, three back-to-back pains, then the solution; works across unrelated niches (DdWPM-EvoKs).
+- Choose the email by business goal (money, reviews, price justification, margin, launch) and fill three ideas per goal (Df-NGTBzALY, DfHkMOnTeYz).
+- Narrate the whole order after purchase: eight emails before delivery, then a six-day usage sequence with 30/60/90-day expectations to beat buyer's remorse (DfsVUzls_x_).
+- Replace the 10% popup with a quiz or a game; a missed shot still wins 5%, and the code auto-applies at checkout (DfFmWaAN6xT, DeTa3fLtWAM).
+- "First 100 people" in place of a 72-hour sale removes the option to wait (DaHy4xbvwED).
+- Gmail annotations put a deal badge or product images in the inbox preview before opening (DbzQHPhMTTM).
+- Wrap one idea in many formats (myth-bust, POV, challenge, tier list, street interview, skit) and shoot three from a single idea (Dfrr4teP_82).
+- Patterns: "N hooks that always work" lists of fill-in shells, mostly repeating one another; visual-hook catalogs from one creator (@peter.visuals) that reuse "Comment WORD for 3000+ hooks"; tier-labelled ("S-tier") menus of ad and email formats; heavy keyword CTAs with comment counts above likes (DG3K0NBCl9t, DeJ8N6lIaLm); email-format disguises; Claude-plus-tool UGC tutorials. Several performance claims ("scientifically impossible to skip", view counts) are unverified.
+- Worth a closer look: Deb7hcGMBnZ, DdRbpAFNzPb, Df2CsS-gdYn, DfsVUzls_x_, Dfa_Zd2A2Ec.
