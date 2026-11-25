@@ -42,3 +42,23 @@ generated. Sources: reels in `curriculum/reels-ledger.md`. Untested in the lab; 
 - One CTA, spoken and shown, matching the destination.
 - Sound: music chosen for the mood (educational, motivational, storytelling); the voice clearly above it.
 - Real proof is real; generated parts are labelled where the platform requires.
+
+## More recipes from round 2
+Added from the round 2 study (`curriculum/06-round2-synthesis.md`). Untested in the lab.
+
+| Recipe | Beats | Needs | Fits |
+|---|---|---|---|
+| **Side by side** | Treated and untreated in one frame from the first second → how → result → CTA | Both states filmed together | Cleaning, repair, finishes, anything with a visible difference |
+| **Show the work** | "Is this worth ₹X, or would you make it yourself?" → the real process, unhurried → the result → CTA | Real process footage | Handmade and made-to-order; backfires if the result is ordinary |
+| **UGC four beats** | Hook 0-3 s (doesn't look like an ad) → problem 3-8 s in the customer's words → proof 8-20 s → push in the last 5 s (one reason to act now) | A real customer or a consenting creator | Paid social for consumer products |
+| **Hook → lock-in → blocks** | Hook → two or three sentences that say why to stay → body blocks, each ending on a re-hook → CTA matched to what's offered | A script | Talking-head explainers |
+| **Make it visible** | A visible stand-in for an invisible benefit or harm → the product as the fix | One strong visual idea | Protection, hygiene, safety, anything unseen |
+
+**Script check.** Read the beats aloud joined by "and then". Wherever that works, the story is flat; rewrite so the beats join with "but"
+or "therefore".
+
+**AI-made creator-style video.** Realism comes from the first frame and the situation, not from the word "realistic": start from a
+phone-style still, and decide the character's circumstances (late, tired, halfway through a routine). The rule against generated
+customers and testimonials still applies; this is for clearly presented or consenting creators only.
+
+**Edit.** Captions of one to three words, pauses cut, proof visible behind the speaker.

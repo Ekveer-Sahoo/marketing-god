@@ -136,3 +136,30 @@ Don't change everything at once or the result can't be read.
 ## Worked examples
 - Eight ads on a small budget, with the files and the chat reply: `examples/drone-workshop/` (repository root).
 - Flowchart of this process: `docs/PROCESS.md`.
+
+## Sharper rules from round 2
+Added from the round 2 study (`curriculum/06-round2-synthesis.md`). Untested in the lab. Platform numbers here are practitioners' claims; label them as starting guesses.
+
+**What counts as a new angle.** An angle is a reason to buy, aimed at one person at one awareness stage. A new hook or edit on the same
+pitch is iteration. When a winner tires, change things in this order: who it's for → angle → desire → awareness stage → mechanism →
+promise → offer, and only then hook, format, presenter, pacing and CTA.
+
+**How many creatives to test.** Winners needed = daily spend ÷ the spend one winning ad can hold. Creatives to test = winners ÷ expected
+hit rate. Example: ₹5,000 a day, ₹1,000 per winner, 10% hit rate → 5 winners → about 50 creatives over time. On a small budget keep 3-5
+ads live per ad set, test one angle, and vary only the opening seconds on a body that already works.
+
+**Reading the numbers.**
+- Cost per purchase = CPM ÷ (1,000 × click-through rate × conversion rate). Use it to see which of the three is the problem.
+- High CPM → audience or creative. Low click-through → hook. Clicks but no sales → the page, the offer or checkout.
+- Before raising budget, check: conversion tracking, that the page matches the ad, mobile speed, the objective, surprise costs at
+  checkout, visible trust signals.
+- Judge by contribution margin: take one order through product cost, shipping and returns, then ad cost. Break-even return on ad spend
+  matters more than the headline figure.
+- Raise budgets gradually (a common claim: about 20% every few days), not by doubling.
+
+**Format by stage.** Top: founder clips, UGC, native-looking statics, skits. Middle: testimonials, comment replies, comparisons. Bottom:
+offer and product statics, deadlines. Combining two proven formats (founder selfie + lesson, offer + meme) is a cheap source of new concepts.
+
+**Search or social first?** If the buyer searches when the need hits (an emergency, a named product), start with search ads; if the need
+has to be shown to them, start with social. Free research: the platforms' ad libraries and transparency centres, and competitors'
+reviews for complaints to answer.

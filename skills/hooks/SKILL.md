@@ -98,7 +98,8 @@ first and why (pick two that differ in type, not two versions of one idea). Offe
 5. If it scores 10+ say so plainly and don't rewrite it for the sake of it.
 
 ## Rules that hold in both modes
-- **Specific beats clever.** A number, a named situation or a concrete object. Cut empty intensifiers (huge, insane, game-changing).
+- **Specific beats clever.** A number, a named situation or a concrete object. Cut empty intensifiers (huge, insane, game-changing),
+  and swap claim words (fast, trusted, durable, premium) for the proof behind them; the swap table is in `references/hook-types.md`.
 - **For the viewer, not about the brand or the news.** "Anthropic just announced…" got 37 likes; lines that named the viewer's situation,
   or showed something they want happening, got 100k+.
 - **Open a loop the piece really closes.** If the content can't pay off the promise, change the hook, not the truth.

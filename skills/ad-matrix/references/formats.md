@@ -44,3 +44,14 @@ studio's or toy brand's look.
 ## What counts as a different ad
 Different concept, different format, or a different opening three seconds. Not different: a new background colour, a reworded headline on
 the same layout, the same clip with a different caption.
+
+## Match the demonstration to the claim (round 2)
+Added from the round 2 study (`curriculum/06-round2-synthesis.md`). Untested in the lab.
+| Claim | Show |
+|---|---|
+| It transforms something | Before and after, ideally side by side in one frame |
+| It lasts | Someone trying to break it |
+| It's good value | It next to something costly that does the same job |
+| It's easy | The whole use in one unbroken take |
+| A benefit you can't see | A visible stand-in for it (damage, wear, time) |
+| It takes real work to make | The work itself |

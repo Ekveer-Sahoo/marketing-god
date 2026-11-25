@@ -104,3 +104,12 @@ Write the file. In chat give: the best first segment, the top three problems wit
 ## Worked examples
 - A file built from ten customer messages where the buyer and user differ: `examples/drone-workshop/audience.md` (repository root).
 - Flowchart of this process: `docs/PROCESS.md`.
+
+## Three lenses to apply when sorting (round 2)
+Added from the round 2 study (`curriculum/06-round2-synthesis.md`). Untested in the lab.
+- **Three layers of each problem:** the practical problem, the emotional one, and the belief underneath ("people like me can't…").
+  Record all three for the top problems; copy that answers only the practical layer leaves price as the deciding factor.
+- **Driver, trigger, barrier:** why they buy, the moment the problem hits, and what stops them. Put the trigger in the segment table and
+  the barrier under objections.
+- **Belief shift:** for the best first segment, write what they believe now and what they would need to believe to buy.
+- **When they leave:** for anything bought repeatedly, ask when customers stop (which week, which order), before guessing why.

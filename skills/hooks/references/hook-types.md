@@ -78,3 +78,31 @@ duplicates count once (objection = price objection; anticipation = curiosity gap
 - **Knows fixes exist, not yours** → contrast or mechanism ("unlike X, this…").
 - **Knows you, hasn't bought** → proof, objection, price or deadline.
 (To be deepened when we study Schwartz's awareness levels properly.)
+
+## More types and rules from round 2
+Added from the round 2 study (`curriculum/06-round2-synthesis.md`). Untested in the lab.
+
+| Type | Formula | Example |
+|---|---|---|
+| Information gap | What they already believe + "but" + what they don't know | "You were told to post daily. But the accounts growing fastest post twice a week." (only if true) |
+| Unfinished action | Start something unresolved, pitch before it resolves | A fuse is lit; the pitch runs; the cut never shows the end |
+| Pick one | Two options, ask which | "Which of these looks more expensive?" |
+| Confession | Admit a failure, then the turn | "I got this wrong for a year." |
+| Investigation | I looked inside [thing] and found [specific number] | Needs a finding you can actually back |
+| Old belief vs new belief | You think X. It's Y. | "It isn't your ad. It's the page it lands on." |
+
+**Proof swaps.** Replace the empty word with the proof behind it:
+| Instead of | Say |
+|---|---|
+| fast | the hours or days it saves |
+| trusted | who trusted it |
+| durable | what it survived |
+| premium, high quality | the one detail a cheap version doesn't have |
+
+**Rules**
+- **Test the first frame before the wording.** The same line can do very differently on a static card and on something moving.
+- **Decide the delivery** for spoken hooks: where the pause goes, which word is stressed, the energy of the first second.
+- **Plan the re-hook.** Don't answer the hook in the next breath; ask a second question or raise the stake, then pay off. Say what the
+  re-hook is in "Sets up".
+- **A hook also turns people away.** Naming who it's for lets the wrong viewers leave, which is what you want in a paid ad.
+- **Check:** "why would someone need to watch the next five seconds?"

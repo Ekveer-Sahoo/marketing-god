@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-ff8a4c"></a>
-  <img alt="Version 0.2.0" src="https://img.shields.io/badge/version-0.2.0-ff6a6a">
+  <img alt="Version 0.3.0" src="https://img.shields.io/badge/version-0.3.0-ff6a6a">
   <img alt="Claude Code plugin" src="https://img.shields.io/badge/Claude%20Code-plugin-ff4d8d">
   <img alt="Status: early" src="https://img.shields.io/badge/status-early-8f86b8">
 </p>
@@ -118,11 +118,13 @@ Ask in plain words; the skills trigger on the request.
 
 ## How it was built
 
-| 122 | 4 | 5 | 37 |
+| 1,138 | 4 | 5 | 37 |
 |:-:|:-:|:-:|:-:|
 | short videos and posts studied | skills written | blind tests run | gaps found and fixed |
 
-1. **Study.** Marketing reels were transcribed and reviewed frame by frame. Notes, with each creator credited: [`curriculum/`](curriculum/README.md).
+1. **Study.** 693 videos were transcribed and 445 carousel captions read; about 280 taught nothing and many of the rest repeat each
+   other. The first 160 were reviewed frame by frame, the rest from transcripts and captions. Notes, with each creator credited:
+   [`curriculum/`](curriculum/README.md); what round 2 added: [`curriculum/06-round2-synthesis.md`](curriculum/06-round2-synthesis.md).
 2. **Encode.** Lessons that were specific and repeatable became skill instructions.
 3. **Blind-test.** A fresh agent got only the skill files and a sample product, then critiqued the skill. Log: [`lab/skill-tests.md`](lab/skill-tests.md).
 4. **Lab** (not yet run at scale). Real products, scored against a rubric; any error seen on three or more products becomes a rule. Process: [`lab/README.md`](lab/README.md).
