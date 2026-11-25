@@ -159,3 +159,21 @@ Claims from creators about platforms and statistics are unverified.
 - Wrap one idea in many formats (myth-bust, POV, challenge, tier list, street interview, skit) and shoot three from a single idea (Dfrr4teP_82).
 - Patterns: "N hooks that always work" lists of fill-in shells, mostly repeating one another; visual-hook catalogs from one creator (@peter.visuals) that reuse "Comment WORD for 3000+ hooks"; tier-labelled ("S-tier") menus of ad and email formats; heavy keyword CTAs with comment counts above likes (DG3K0NBCl9t, DeJ8N6lIaLm); email-format disguises; Claude-plus-tool UGC tutorials. Several performance claims ("scientifically impossible to skip", view counts) are unverified.
 - Worth a closer look: Deb7hcGMBnZ, DdRbpAFNzPb, Df2CsS-gdYn, DfsVUzls_x_, Dfa_Zd2A2Ec.
+
+## Batch E (hashtag videos, 70 studied, 1 skipped)
+- Angle matrix: an angle is a reason to buy aimed at one person at one awareness stage; new hooks or edits on the same pitch are only iteration, so grid what people want against who and stage (DfXrim6xnyH, DbZwh_6TrDQ).
+- Iterate a winner top-down: avatar, angle, desire, awareness stage, mechanism, promise, emotion, offer first, and only then hook, format, creator, b-roll, pacing, CTA (DegNvePzO0Q).
+- Belief recognition: write the ad around what the buyer believes now, the reframe, and the belief they should leave with (DfAH9zEMy4K).
+- Combine two proven formats into one (founder selfie + education, offer + meme, ugly photo + billboard) to get new concepts cheaply (DdTnIjuygFF).
+- Match the demonstration to what you sell: transformation shows before/after, durability tries to break it, affordability compares to something costly, convenience shows ease (Df1LbO1zX2A).
+- Do not judge ads one at a time inside an ad set: low-spend "winners" may be closing people the big spenders warmed up (claim, unverified) (Df-dxNavduJ).
+- Niche-callout ads on broad targeting: repeat one creative structure with a named profession ("welding shop owner") so the words do the targeting (claim, unverified on the platform update) (DfyXgLHgxEa).
+- Let customers be the evidence: IKEA's hidden-tag contest turned old furniture into proof of durability (DbYMG-Nsrbs). Show the claim physically: Burger King's 34-day mould (Dfl2ze1T0wk).
+- Sell the service with the product thrown in: Clear printed restaurant names on bottles, which gave free branding and made switching a downgrade (DZH9LqouMwA, DZ4HfWxI-vZ).
+- Reframe the problem to create the market: Listerine's halitosis (DbagmfuIKyH). State a limit as your claim: "we don't do frozen" (DdxYp6zCKGe).
+- Tie the number to the story: Lacoste's shirt run matched the remaining animals (DaVGdnQhWVp); McDonald's F1 offers lasted as long as the leader took to cross the golden zone (DeUhlDjy6VX).
+- Gamify in-store spend: one coin per dish, thrown at prizes (DR4wuTpEjgO).
+- Don't change a recognisable asset without testing: Tropicana's 20% sales drop; shared colours aren't a distinctive asset (DcaGAUftw5s, Da0cUhgzLOe).
+- Ladder an ad element: generic, good, specific (first week free, "don't love it, don't pay", pick a time this week) (Df0BE4TO5YR).
+- Patterns: a large block of near-identical "N ad formats" lists (static menus, video menus, AI-made formats) mostly gated by comment keywords (ADS, STATIC, VIDEO, ads) that give the highest comment counts (2,932; 1,919); funnel-stage format maps; quiz-style A/B result reels; a second block of "genius marketing" case-study reels with hook-question openers, "Day N of 100" series, a stat near the end, and an ending question to drive comments. Numbers in these are mostly unsourced.
+- Worth a closer look: DfXrim6xnyH, DegNvePzO0Q, DfAH9zEMy4K, Df-dxNavduJ, DZH9LqouMwA.
