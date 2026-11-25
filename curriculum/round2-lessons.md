@@ -196,3 +196,21 @@ Claims from creators about platforms and statistics are unverified.
 - Prompting AI for content: supply what you do, dream client, struggles/desires, offer, tone first; split into skills (simple language, story, hooks, anti-AI pass, voice profile). [P:DQHUynsE4Nz, P:DZz17R5FCgm]
 - Patterns: openers are contrarian reframes ("X is not Y", "Posting is not marketing"), a number ("200 ideas", "9 principles") or a named brand case; dominant CTA is "Comment KEYWORD" to receive a DM guide/prompt pack plus "save this"/"share with a friend", and those gated posts get the highest comments (often 500-19K, Claude/AI-skill posts and free-content-guide posts especially), while pure case-study or opinion posts get few comments despite high likes. Many captions are teasers with the substance only on slides, and several carry keyword-stuffed hashtag blocks.
 - Worth reading the slides: P:DfWp8pwjP1Z (Selleys billboard stunt lessons), P:DfiPnbFjZ_L (7-step prompts on every slide), P:DddzyHej0YN, P:DVJI36ajMJZ (9-post launch grid order), P:DaUeSukiCqP (brand mapping), P:Ddnd1LtE1gN.
+
+## Batch F (hashtag videos, 63 studied, 7 skipped)
+- Brand recognition comes from two or three repeatable signatures enforced with discipline; the hard part is saying no to anything off-system (DZxkQ08Rrn1).
+- Crisis as content: go public with a wink in brand voice, then add a participation mechanic (KitKat's batch-code tracker for stolen bars) (DeV_U5fyGCg).
+- Make the intangible tangible: show invisible UV damage as sunburnt skin on a car, so the benefit or cost can be seen (DbGIXhHBEhV).
+- Design friction as a feature: a bottle that takes two people to open forces strangers to talk (DV3cbEISX6y).
+- Reply-first Reddit method: three subreddits, high-intent searches ("is it worth it", "what do you recommend"), give real advice, mention the product last (Dc0uxrEMptT).
+- Sell by asking questions: convert objections and benefits into questions the buyer answers, instead of pitching the product (Cz3i_RcS1ax).
+- Lead-follow-up question: when told "we'll get back to you," ask if they lean yes or no, so you stop chasing blindly (DWiFv5-k7DO).
+- Ask-for-money formula for people who hate selling: "if you're struggling with X, buying Y solves it," which reframes asking as service (DPO7_vtjRD5).
+- Funnel diagnosis by the numbers: 100 views, 30 interested, 5 buy means conversion, not traffic; low interest fixes marketing, high enquiry with low purchase fixes the offer, no repeats fixes the product (DdyKxQvKYsM).
+- Audit your own replies as a customer before raising ad budget; slow or one-word chat answers leak sales (DeteFTYokqJ).
+- 6x5 content planning: six subtopics times five formats gives a month of posts in 30 minutes (DXkEIQSjmUF).
+- Landing page formats by stage: top (advertorial, quiz, myth versus fact), middle (comparison, FAQ, reviews wall), bottom (bundle builder, booking, guarantee) (Df-MoqqxEWX).
+- Application screening before the calendar: short video plus three questions so non-fits never book (DfzazQKx8se).
+- Comment-keyword to DM to cheap front-end to upsell chain, with step-by-step numbers (Dfj_pbCN8bF).
+- Patterns: public-stunt case studies ending in an engagement question (KitKat, billboard glue, ice cube, reverse graffiti); "strong brand versus weak brand" contrast lists; funnel and VSL explainers repeated by many small accounts; credibility-first hooks ("scaled from $30M to $150M"); nearly every funnel and tool reel closes with "comment [keyword]" to get a guide, and the biggest comment counts (11k-29k) come from that mechanic.
+- Worth a closer look: DbGIXhHBEhV, DeYR4__TVQD, DXKYO23jWUt, DWgjjvLDXa-, DeFq8XjuBp2.
