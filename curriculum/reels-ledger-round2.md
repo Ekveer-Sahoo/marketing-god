@@ -144,3 +144,145 @@ format, the hook and the take. `SKIP` marks items with no marketing lesson. Note
 **DfVXo8CsclV · @siddhichavan25 · 44 / 168** — Screen recording. Hook: "Steal your competitors' Instagram followers via Meta ads." Take: export a rival's follower list with a scraping tool and upload as a custom audience. Privacy and policy risk; treat with caution, the usable idea is competitor-adjacent audiences.
 
 **DfjzYE0hs2d · @munnasamjhao · 1339 / 285** — Skit-explainer, Hinglish. Hook: "Pixel installed but ads reach wrong people?" Take: check Event Match Quality (Events Manager, Pixel, Purchase event, score out of 10); raise it by turning on Conversions API, max data sharing in Shopify's Meta app, and sending email, phone, name.
+
+## Batch B
+
+**DLi_8kvNLwC · @brian_blum · 444 / 15** — Talking head, 3 tips. Hook: high-school English ruined marketing copy, and ChatGPT won't fix it. Take: draft, cut a third, then cut a third again; anchor claims with numbers; put the most curiosity-driving point first, not a warm-up intro. Constraint-based editing is easy to apply to any email or product description.
+
+**DdYVdhKut5r · @lanafogarty · 2147 / 29** — Talking head, list of four. Hook: four scriptwriting frameworks to master content. Take: match script structure to goal: QAET for authority, Freytag's pyramid for storytelling, PAS (problem-agitate-solve) for bottom-of-funnel, HSEIRA for educational. Only PAS is spelled out; the pairing of framework to funnel stage is the useful idea.
+
+**DdWPWPHx0HO · @wellcopymax · 2419 / 69** — Screenshot list of email examples. Hook: "10 out of 10 marketing emails I've received in 2026." Take: call a discount "store credit dropped in your account" (claimed doubled clicks, 10 orders vs 1; claim, unverified); stand out in the inbox with formats that look like something else (a newspaper article, a "you're fired" subject); send a late-evening exclusive sale.
+
+**DcfocjEEgN9 · @anguscowan · 963 / 11** — Quote list. Hook: "10 out of 10 lessons from the best copywriters." Take: Ogilvy's "specifics beat generalities" and "test", Collier's "enter the conversation already in the customer's mind", Halbert's "starving crowd", Schwartz's "copy channels desire, can't create it". A reading list of principles; the format (famous quote plus one line) is easy to reuse.
+
+**Df-YRRhvmGR · @yuv.mehta · 263 / 6** — Text list, caption-led, no audio. Hook: "50 hooks from our highest hook-rate ads." Take: fill-in-the-blank hook templates ("I wasted ₹___ before I found this", "Stop buying ___ until you watch this", "Nobody tells you this about ___"). Templates are reusable; hook-rate claim unverified.
+
+**DejAnapyeDD · @veronix.vfx · 565 / 14** — Before/after pitch, ad agency promo. Hook: you can double ROAS by fixing three things (claim, unverified). Take: the technique is the call-out hook: name the exact audience and their exact pain in line one (homeowners who lost a house in fires, buried in claims), and make visuals show the product, not a talker. Rest is a DM-"WORK" pitch.
+
+**DbOI-gVSyv6 · @ashwin_digitalmarketer · 3 / 134** — Text slide, caption list. Hook: 5 scaling rules. Take: repeats DehFRsUzla-: raise budget about 20% at a time; add duplicate ad sets and scale horizontally; keep fresh creatives ready; check daily. New only as a checklist; "DM SCALE" CTA got 134 comments.
+
+**Dbr8p8dxtco · @livealifewithjel** — SKIP: agency promo with ROAS figures, no technique shown, no audio.
+
+**DeBPtvEz3sj · @futurebuilders.co · 16138 / 8016** — Screen recording, Hinglish. Hook: target the people who already buy from your competitors. Take: in a third-party tool, pull a competitor's Instagram followers and build a custom audience from them. Contact export and its legality are doubtful (claim, unverified); the idea of targeting a rival's audience repeats C79YDkzIS3K. Huge comments from a comment-keyword CTA.
+
+**Df4gxFGPQWr · @wingsonfire.in** — SKIP: agency teaser, no audio, no content in caption.
+
+**Demfapos2O1 · @marketingwithrishika · 1682 / 42** — Text carousel, caption list, no audio. Hook: 8 GA4 features beyond traffic reports. Take: use Funnel Exploration to see where users drop between landing page and purchase or lead; the rest of the list is in the cut caption. Useful as a pointer to funnel drop-off analysis.
+
+**Dc_NbmBSxH0 · @thinkwithsid · 343 / 592** — Talking head, spend-split framework, India. Hook: "I might get sued for this", the creative strategy of brands doing 1 crore a month. Take: about 70% of spend on top-of-funnel creative that doesn't sell (memes, relatable skits, POV, street interviews, hot takes, ASMR, founder BTS, problem-only hooks), then middle and bottom funnel with product proof. Figures unverified; comment-keyword CTA.
+
+**DdUNfI-i6Fm · @vickycreativeads · 3 / 1006** — Text slide, caption list, no audio. Hook: "one campaign won't do it, build a system." Take: plan by funnel stage (awareness, consideration, conversion, retention) rather than one campaign; repeats Dc_NbmBSxH0. 1006 comments from a "comment Link" CTA.
+
+**DIB4IksSMvn · @ad.mingle** — SKIP: trend-ending clip, no audio, no lesson in caption.
+
+**DdwCgFEFFdY · @muftlo** — SKIP: agency services promo, no technique.
+
+**DfMBK8qy4uz · @pakharsangave · 2510 / 1427** — Talking head, Hinglish roadmap. Hook: learn performance marketing from scratch, no shortcuts. Take: a path: Meta ads, Google ads, analytics and metrics (CPM, CTR, CPC, LTV, CAC), then internship, a case-study portfolio and certifications; 3 to 6 months. Comment-keyword CTA ("MARKETING") for links.
+
+**DfzRcbkTen0 · @munnasamjhao · 722 / 394** — Tier-list format, Hinglish. Hook: one campaign, one ad set, one ad gets F tier; comments, fight. Take: test new ads in ABO, move winners to CBO with minimum spend per ad set and varied creative (video, static, UGC); don't split small budgets by funnel; creative matters more than structure. The tier-list ranking invites argument.
+
+**DdO8zdJTTLq · @suhailsiddiqui03 · 888 / 17** — Talking head, calculation, Hinglish. Hook: how many creatives to test at ₹3,000 to ₹10,000 daily spend. Take: winners needed = daily spend ÷ spend one winner can hold (₹5,000 ÷ ₹1,000 = 5); creatives to test = winners ÷ hit rate (5 ÷ 10% = 50). Plan testing volume by arithmetic, not guesswork.
+
+**Df-SgLnv2lj · @yuv.mehta · 4 / 0** — Text list, caption-led. Hook: "40 winning video ad formats." Take: names ad formats by job (One Problem One Ad, Before You Buy This, Cost Breakdown, Who This Is NOT For). Most useful: "Who this is NOT for" and "Cost breakdown" as repeatable ad shells. Repeats Df-YRRhvmGR's template approach.
+
+**DcvvRXVyrud · @marketingschool.td** — SKIP: quiz teaser with unintelligible song audio.
+
+**DShe8R9DRhD · @yasmin.theoryofkhaos · 8168 / 70** — Talking head, series (episode 20), two-site comparison. Hook: no sales means your messaging confuses people. Take: cognitive load; strip the homepage to one clear message and fewer choices so the brain has room to decide. Seven-items figure is a claim, unverified.
+
+**DSmojfXjSbF · @yasmin.theoryofkhaos · 9484 / 205** — Talking head, series (episode 22). Hook: your brand is ignored because you've made no enemies. Take: the enemy effect; pick what your customer hates (Nike: laziness, Dove: impossible beauty standards) and position against it to build loyalty. Party-story opener makes the idea instantly clear.
+
+**Dfu0hUYMNAG · @expandfactoragency · 5591 / 24** — Case study, voiceover. Hook: "how to manipulate your customers into spending more, legally." Take: compromise effect, repeats DYUic8NqA9D (three tiers, target the middle). New: show the exact ladder (basic 900, standard 1400, premium 2200) and an unlisted smaller size that makes the middle option the choice.
+
+**DeqqHaDPcf4 · @bina.au_ · 31828 / 709** — Story narration. Hook: two gyms, same price, one attracts more beginners. Take: don't list features; ask "what are you hoping to achieve?" and show a first-week plan. People buy when they feel confident about the next step, not when impressed.
+
+**DDz2pOdywPe · @jacobcollinz · 3 / 8** — Talking head, series (part 1). Hook: wire your brand into the customer's brain. Take: Hebbian learning; pair the brand with the same sound, colour or phrase every time until the cue alone triggers the brand. Practical form: consistent sonic and colour signatures.
+
+**DZUwGf-Duuo · @ex.mktg · 1650 / 7** — Talking head, 3 hook formulas. Hook: "easy, hard, impossible, three hooks to go viral." Take: "What if I told you I got X by doing Y", "Give me N seconds and I'll tell you why...", "You don't need X to get Y". Short fill-in templates; viral claim unverified.
+
+**DaJOpotxlFj · @primepulse.inc · 1110 / 338** — Thought experiment, voiceover. Hook: a Pepsi machine beside a Coke machine sells more for both. Take: repeats DHI37tivWZn (second option changes "buy or not" to "which"). Claim of both doubling unverified. Comment-keyword CTA for a free guide.
+
+**Df4q0b3vSe3 · @marketedbyak · 118 / 2** — Talking head, 4-hook list. Hook: weak hook means nobody sees your offer. Take: four ad hook shells: result first, the mistake ("we lost 40 customers in a week"), old belief versus new, and one real detail (loaded with 15 kg, dropped 200 times). Concrete examples for each.
+
+**DcOKCfWiN1u · @marketing.gossip · 162 / 9** — Tier-list, voiceover. Hook: fear marketing belongs in the lowest tier. Take: opinion ranking: positioning S tier (foundation for messaging and sales), emotional branding A, scarcity B if genuine, copying competitors and fear F. Ranking format invites comments; opinions only.
+
+**DfXNCXfIqjb · @gilmintmoney · 15 / 0** — Text-over-b-roll, short. Hook: "This price tag is lying to you." Take: left-digit effect, brain reads 9.99 as 9. Standard charm-pricing point; repeats DbbgJlis0Vx on prices. Caption hints at rounding up, so test both.
+
+**DbdZ_wiNSjr · @mayank.videoeditor · 3 / 6** — Voiceover over b-roll. Hook: "Your brain has a glitch" marketers exploit. Take: scarcity effect; limited feels valuable, valuable feels urgent (Supreme dropping 300 hoodies to 30,000 people). Examples only, no how-to. Note: manufactured scarcity gets called out (see DcOKCfWiN1u).
+
+**DfzbBpZtKjY · @marketing_gyaani · 5240 / 754** — Talking head, niche-specific, Hinglish. Hook: "Crochet owners: 'too expensive, machines are cheaper'." Take: labor illusion for makers; time-lapse reel per product with timer, hours and stitch count in caption, limited made-to-order slots. Research citation unverified. Repeats Df0h4zPx367, with a concrete niche recipe.
+
+**Dem1FY6vr5Z · @brand_crux · 95607 / 291** — Case study, voiceover. Hook: Tesla's flying car isn't for sale, and that's the point. Take: price anchoring; add one extreme, near-unbuyable option that earns attention and makes the normal one look reasonable (a $1,900 cake, an application-only VIP programme). Related to DYUic8NqA9D but anchors high.
+
+**Df_mu7tyU-C · @dukaandidi · 15147 / 20** — Story with a character, Hinglish. Hook: nobody even tasted Anjali's cookies, the label put them off. Take: expectation effect; rename "healthy ragi cookies" to "dark chocolate crunch" and list ragi second, so the health angle becomes a surprise. Cited Stanford wrapper study unverified.
+
+**DSM7VzzDeXP · @yasmin.theoryofkhaos · 4086 / 54** — Talking head, series (episode 13). Hook: people say too expensive because you haven't tied it to a higher need. Take: Maslow; price tolerance rises as the product serves identity or purpose rather than a basic need (Apple versus Dell). Link price to the customer's aspiration.
+
+**DJT-sS_MHzp · @itskashishah · 13465 / 169** — Case examples, series (episode 1). Hook: "Ugly design wins." Take: judge design by whether it solves the audience's problem; CeraVe's plain medical look signals efficacy, Reddit's rawness signals authenticity, Glossier's pouch feels casual. Match look to audience trust cues, not to prettiness.
+
+**DfHzPLxh9xv · @adsbysambhav · 8165 / 86** — Talking head, 6 word swaps. Hook: small vocabulary changes shift perception. Take: repeats DbbgJlis0Vx (cost to investment, expensive to premium, basic to essential). New: say "agreement" not "contract" and avoid "options" in sales talk. PDF-by-comment CTA.
+
+**DgFRvm9CDKL · @unicorncoachgopal · 12 / 0** — Text list, "5 dirty marketing moves". Hook: five moves that sound dirty. Take: five strategies with names: starve (free entry point, monetise what follows), trojan (bundle the next offer into the bestseller), mirage (waitlist to validate before building), plus two more. Memorable naming aids retention.
+
+**DfSvV4xMbWL · @siddhichavan25 · 16 / 0** — Text list, 6 swaps. Hook: charming ₹999 pricing. Take: repeats DbbgJlis0Vx and DfHzPLxh9xv; adds "eight units left" instead of "buy now" and "most popular" instead of "standard". Mostly the same list again.
+
+**De4nrv6uL8v · @looplaunch.in · 3 / 5** — Interview-style rapid fire. Hook: do people compare all options before buying? Take: short answers: brain picks first and then justifies; a very expensive option makes the lowest win (decoy, repeats DYUic8NqA9D); too many choices lose sales; peak and ending are remembered; free feels zero risk. Light, mostly repeats.
+
+**DeUxS2iurvh · @praxads.ig · 1673 / 7** — Voiceover explainer. Hook: nobody can point to the study behind "rule of 7". Take: mere exposure effect; liking rises with repeats then peaks around 10 to 20 exposures and declines (claim from a 208-experiment pool, unverified). Frequency-cap your ads; more is not better.
+
+**DZxbhkhCHQW · @marketing.gossip · 814 / 248** — Talking head, summary of an executive's insights. Hook: "Zepto's right-hand man shared insights." Take: hold mental real estate with one consistent brand colour; align with people's existing worldview instead of changing it; creative marketing is rising over analytics (claim, unverified). Comment-"Zepto" CTA.
+
+**DFqFudJMJB3 · @tori.business.growth · 200 / 6** — Voiceover case. Hook: Coca-Cola machine plus Pepsi machine each sell more. Take: repeats DaJOpotxlFj (named as Hotelling's Law, unverified), with a mention of the decoy effect. Nothing new.
+
+**De67eydzPc8 · @prime.brains · 1078 / 9** — Voiceover essay. Hook: marketing is science and art; we starved the art. Take: unmeasurable touches (matte box finish, handwritten apology letter to a let-down customer, "a diamond is forever") build loyalty; protect some budget for them. Opinion, no method.
+
+**DfaF9d_pWYZ · @tacticdecoded · 49 / 0** — Text-over-b-roll, example. Hook: "Free costs you the most." Take: zero-price effect; in a cited test, cutting both chocolates by a cent flipped most people from the better truffle to the free one (claim, unverified). Free beats cheap; use it deliberately.
+
+**DcvqmNCyKaS · @aduok_biztales · 3 / 0** — Text-over-b-roll, short. Hook: sell 3 for the price of 1. Take: frame "buy 1 at $15, get 2 free" instead of "3 at $5". Same price, "free" lifts appeal. Pairs with DfaF9d_pWYZ.
+
+**DTx11FWjZGk · @socialinfluencestudios · 9210 / 272** — List, important versus not important. Hook: marketing edition of what matters. Take: clear sales process, proof, case studies, nurturing and automation matter; perfect website, logo, posting everywhere and mass email don't. Opinion list; "trust recession" is a claim, unverified.
+
+**Dd6pkNyNkjz · @conor.talks · 9881 / 156** — Talking head, 3-step. Hook: say one thing online until you're sick of it. Take: pick a lane narrow enough to feel risky, do it where people can see it, and repeat it. Reputation comes from repetition, not being the smartest person in the room.
+
+**DfWHPChtG_d · @hilzuckerman · 17111 / 484** — Talking head with worked example, 4 steps. Hook: make boring content addictive. Take: open with a moment, not a topic ("18,000 photos and can't find one"), add a real number ("last week it cost me ___"), and name what everyone blames versus the real cause. Same example runs through all four.
+
+**DU1JrT8jHl2 · @sillbillsocial · 309 / 45** — Talking head, opinion. Hook: "Unpopular opinion": don't start with your founder story. Take: if nobody knows you, lead with audience pain-point content; share your story once the audience and algorithm know who you serve (claim, unverified).
+
+**DHERGvKKLFc · @storybrand · 7453 / 95** — Talking head, examples. Hook: build a personal brand by becoming known for one problem. Take: isolate communication to one problem you solve and talk about it endlessly; examples are longevity, habits, parenting, stoicism. Repeats Dd6pkNyNkjz, with a problem-first framing.
+
+**Df-H_WytMYO · @gwendolyneem · 1163 / 304** — Caption list, audio is just an outro. Hook: "7 Claude prompts" for growing Instagram. Take: prompt Claude as a content strategist; the prompts themselves are cut off in the caption, so no verifiable technique here beyond that framing.
+
+**DTb1rh3kZag · @jun_yuh · 31768 / 3498** — Talking head, ladder structure. Hook: your bio puts you in the top 50% when line one says how you help. Take: bio stack: line one outcome, line two trust, line three contact email, line four CTA, plus link and clear face photo; claims of percentile rank and doubled conversion are unverified. "Comment invite" CTA.
+
+**DVvVveYDDlJ · @realpaulzy · 143 / 37** — Talking head, personal story. Hook: personal branding is about being findable, not famous. Take: document the process, lessons and mistakes of what you're building; if people can't see your work, it doesn't exist to them. Repeats DHERGvKKLFc's visibility idea.
+
+**DfYUg5GMn71 · @jacklaydenn · 949 / 21** — Talking head, 5 formats over 30 days. Hook: gain thousands of followers in 90 days. Take: test formats: single-shot text video, edited montage with voiceover, talking head, and "audience stealing" content (analysis, reactions, interviews, podcasts) that puts your face in front of someone else's audience. Growth claim unverified.
+
+**DXmFSpMDGYn · @bylaurendudley · 66952 / 14132** — Talking head, 3.5-month plan. Hook: "What if I told you" you can build a personal brand in 3.5 months. Take: two weeks of prep (mind map for 30 minutes; you are the niche), then a launch month where week one will feel awkward. Huge comments from a plan-in-the-caption format. Repeats DfdDGN9Pkmz's plan.
+
+**DZZNzbvKAxv · @socialllybossed** — SKIP: creator self-introduction, no technique.
+
+**DdcQ6xhOOQ5 · @viewcci · 79571 / 1470** — Montage, comment-keyword list. Hook: songs to use for four video types. Take: tailor sounds to type (informational, challenge, motivation, deep); the list sits behind "comment SONGS". Pure lead-magnet mechanic.
+
+**DXT4_AUJGGm · @longevitypenguin · 627 / 202** — Talking head, 3 content types. Hook: three content types every founder should make. Take: documentation content (wins, losses, week-in-the-life), relatable content (origin story, near-quit moments), and a third type cut from the transcript. Content from what you're already doing.
+
+**DdzWEIBsE5L · @longevitypenguin** — SKIP: diagram with no intelligible narration.
+
+**DgBb-6iiGZc · @jaaebeeee · 5570 / 27** — Quick list, text. Hook: "Never run out of things to post again." Take: prompts for ideas: your story, a day in your life, a lesson, your setup, a mistake you made, behind the scenes, answer a comment. Free 30-day-ideas CTA by comment.
+
+**DfYrCNBkaMu · @_varun_mudyana · 836 / 354** — Talking head, 4-edit checklist. Hook: "Founders, never post a reel without these 4 edits." Take: 1-3 word bold captions, cut every pause and zoom on key points, show proof behind you (product, logo, site), soft music and small sound effects. Concrete post-production checklist.
+
+**DfdDGN9Pkmz · @hilzuckerman · 6398 / 5090** — Talking head, 100-day plan. Hook: if you're too busy to build a brand in 3.5 months, I'll prove you wrong. Take: dump all ideas, find one thread; ask yourself four questions (what people ask you, what you learned the hard way, what you could talk about 20 minutes unprepared, what you're figuring out). Then three posts a week. Comment-trigger got 5090 comments.
+
+**DPjSey_DY7Z · @personalbrand.ac · 6381 / 98** — Talking head, short. Hook: storytelling gets 27% more views and 31% more shares (claim, unverified). Take: open with story starters such as "I never thought..." or "I just discovered..." before the main point to keep viewers watching.
+
+**DaDYRruqOZ7 · @stinson_edits** — SKIP: personal-brand manager hiring pitch, no technique beyond generic positioning.
+
+**DfFUHjDqewW · @bradfordmarais · 722 / 1173** — Screen demo, AI skill. Hook: a general AI model answers why a video went viral without watching it. Take: analysis should read frames, not only transcript; compare views to the creator's usual baseline, then map each beat and its psychology into a template. Directly relevant to this project.
+
+**DThyz14EneW · @longevitypenguin · 11722 / 797** — Case study, self-breakdown. Hook: "I'm 22 and my video beat 99% of Instagram" (claim, unverified). Take: hook = age plus bold claim tied to a dream outcome, fast clip cuts under it, then an open loop promising 3 steps; body delivers on the promise. Comment-keyword CTA.
+
+**DePDR5opS0D · @renuka.mktg** — SKIP: content-strategist service pitch, no transferable technique.
+
+**Dc1nGiHuWfw · @gobirdmasterclass · 63390 / 15565** — Montage, comment-keyword list. Hook: songs for four video types (education, day in life, emotional, storytelling). Take: repeats DdcQ6xhOOQ5; only new is the type list. Huge comment count from a free-list CTA.
+
+**Df8K26qMe9q · @handshakesnhugz · 4162 / 27** — Talking head, escalating "but" list. Hook: "If you post consistently, nobody cares about you." Take: stack skills: consistency, then hooks, then storytelling, then showing transformation; each addition raises the outcome. Escalating structure is reusable for any "level up" message.

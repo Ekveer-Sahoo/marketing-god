@@ -36,3 +36,22 @@ Claims from creators about platforms and statistics are unverified.
 - Patterns: near-duplicate "native ad format" lists; comment-keyword CTAs with very high comment counts; "why [big brand] does X" psychology
   case studies in numbered series; "genius vs dumb" and "10/10" lists; Hinglish explainers with worked rupee numbers.
 - Worth a closer look: DFGsQiOI_Us, DZSFkNppVW_ (a Claude ads-skill workflow), DehFRsUzla-, DepFsBrhFiw, DfDgu1Ry-Gb.
+
+## Batch B (hashtag videos, 61 studied, 9 skipped)
+- Creative testing volume by arithmetic: winners needed = daily spend ÷ spend one winner holds; creatives to test = winners ÷ hit rate (₹5,000/day, ₹1,000 per winner, 10% hit rate = 50 creatives) (DdO8zdJTTLq).
+- Test new ads in ABO, move winners to CBO with minimum spend per ad set and varied creative; creative matters more than structure (DfzRcbkTen0).
+- Spend split: roughly 70% of budget on top-of-funnel creative that doesn't sell (relatable skits, POV, street interviews, founder BTS) (Dc_NbmBSxH0).
+- Edit rule for copy: write, cut a third, cut another third; anchor with numbers; lead with the most curious point (DLi_8kvNLwC).
+- Match script framework to funnel stage: PAS for bottom of funnel, a story arc for storytelling, a different shape for authority content (DdYVdhKut5r).
+- Four ad hook shells: result first, the mistake, old belief versus new belief, one real concrete detail (Df4q0b3vSe3).
+- Fill-in-the-blank hook bank organised by job ("I wasted ₹___ before...", "Who this is NOT for", "Cost breakdown") (Df-YRRhvmGR, Df-SgLnv2lj).
+- Price anchoring with one extreme, near-unbuyable option (a flying car, a $1,900 cake) that earns attention and makes the normal tier look reasonable (Dem1FY6vr5Z).
+- Expectation effect: reorder label wording so the "healthy" angle becomes a surprise, not a warning (Df_mu7tyU-C).
+- Reframe a discount as "store credit dropped in your account"; disguise emails as other formats to stand out (claim, unverified) (DdWPWPHx0HO).
+- Enemy effect: name what your customer hates and position against it (DSmojfXjSbF). Cognitive load: fewer choices, one message (DShe8R9DRhD).
+- Ask "what are you hoping to achieve?" and show a first-week plan instead of listing features; sells confidence in the next step (DeqqHaDPcf4).
+- Mere exposure peaks around 10-20 views, then liking declines; cap ad frequency (claim, unverified) (DeUxS2iurvh).
+- Four founder-reel edits: 1-3 word captions, cut pauses and zoom, show proof behind you, soft sound design (DfYrCNBkaMu).
+- Bio ladder: outcome, trust, contact, CTA, link, clear face photo (claim, unverified) (DTb1rh3kZag).
+- Patterns: heavy comment-keyword CTAs ("comment SONGS", "invite", "reel") with comment counts in the thousands; numbered series (Cult Brand Psychology episodes, Breaking Design Myths); tier-list rankings that invite arguments; "10 out of 10" quote and example lists; psychology-effect explainers (compromise, anchoring, zero price, enemy, expectation) that mostly repeat decoy and labor-illusion ideas; personal-brand plans (3.5 months, 90 days) with big comment counts; song-list lead magnets; Hinglish explainers with rupee numbers.
+- Worth a closer look: DfFUHjDqewW (frame-by-frame video analysis skill), DdO8zdJTTLq, Dc_NbmBSxH0, Dem1FY6vr5Z, DfWHPChtG_d.
